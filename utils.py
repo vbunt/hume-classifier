@@ -3,8 +3,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDis
 from sklearn.feature_extraction.text import TfidfVectorizer
 import matplotlib.pyplot as plt
 import pandas as pd
-import random
-from numpy import mean, std
+from tqdm.notebook import tqdm
 
 
 classes = ['dialogues', 'dissertation', 'enquiry', 'essay', 'history', 'political discourses', 'treatise']
@@ -62,31 +61,4 @@ def get_scores(pred, y_test, title, matrix=True, print_=True):
         plt.title(title)
     
     return accuracy_score(y_test,pred) * 100
-
-def run_once(model):
-    seed = random.randint(1, 100)
-    dataset = import_dataset(seed)
-    
-    y_train = dataset['train']['labels']
-    y_test = dataset['test']['labels']
-    
-    vectorizer = TfidfVectorizer(max_features=5000)
-    x_train = vectorizer.fit_transform(dataset['train']['text'])
-    x_test = vectorizer.transform(dataset['test']['text'])
-    
-    
-    model.fit(x_train,y_train)
-    svm_pred = model.predict(x_test)
-
-    accuracy = get_scores(svm_pred, y_test, '_', matrix=False)
-    
-    return accuracy
-
-def run_many(model, n):
-    accuracy_scores = []
-    for i in range(n):
-        accuracy_scores.append(run_once(model))
-        
-    print('Mean accuracy: ', mean(accuracy_scores))
-    print('Standard deviation for accuracy: ', std(accuracy_scores))
 
