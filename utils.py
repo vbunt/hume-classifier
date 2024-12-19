@@ -51,7 +51,7 @@ def import_dataset(my_seed=13):
 
 def get_scores(pred, y_test, title, matrix=True, print_=True):
     if print_:
-        print(f"Accuracy: {accuracy_score(y_test,pred) * 100}%")
+        print(f"Accuracy: {accuracy_score(y_test,pred)}%")
 
     if matrix:
         fig, ax = plt.subplots(figsize=(10, 5))
@@ -60,5 +60,5 @@ def get_scores(pred, y_test, title, matrix=True, print_=True):
         ax.yaxis.set_ticks([0, 1, 2, 3, 4, 5, 6], classes)
         plt.title(title)
     
-    return accuracy_score(y_test,pred) * 100
+    return accuracy_score(y_test,pred)
 
