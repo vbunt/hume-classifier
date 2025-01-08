@@ -57,8 +57,14 @@ def get_scores(pred, y_test, title, matrix=True, print_=True):
     if matrix:
         fig, ax = plt.subplots(figsize=(10, 5))
         ConfusionMatrixDisplay.from_predictions(y_test, pred, ax=ax)
-        ax.xaxis.set_ticks([0, 1, 2, 3, 4, 5, 6], classes, rotation=60)
-        ax.yaxis.set_ticks([0, 1, 2, 3, 4, 5, 6], classes)
+        
+        left = min(min(y_test), min(pred))
+        right = max(max(y_test), max(pred))
+        ax.xaxis.set_ticks([i for i in range(0, right+1-left)], classes[left:right+1], rotation=60)
+        ax.yaxis.set_ticks([i for i in range(0, right+1-left)], classes[left:right+1])
+        
+#         ax.xaxis.set_ticks([0, 1, 2, 3, 4, 5, 6], classes, rotation=60)
+#         ax.yaxis.set_ticks([0, 1, 2, 3, 4, 5, 6], classes)
         plt.title(title)
     
     return accuracy_score(y_test,pred)
