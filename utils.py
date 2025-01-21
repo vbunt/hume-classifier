@@ -9,6 +9,16 @@ from tqdm.notebook import tqdm as tqdm
 
 classes = ['dialogues', 'dissertation', 'enquiry', 'essay', 'history', 'political discourses', 'treatise']
 
+id2label = {0: "dialogues", 
+            1: "dissertation",
+            2: "enquiry",
+            3: "essay",
+            4: "history",
+            5: "political discourses",
+            6: "treatise"}
+
+label2id = {val : key for key, val in id2label.items()}
+
 def import_dataset(my_seed=13):
     df = pd.read_json('all.json')
     
@@ -62,9 +72,6 @@ def get_scores(pred, y_test, title, matrix=True, print_=True):
         right = max(max(y_test), max(pred))
         ax.xaxis.set_ticks([i for i in range(0, right+1-left)], classes[left:right+1], rotation=60)
         ax.yaxis.set_ticks([i for i in range(0, right+1-left)], classes[left:right+1])
-        
-#         ax.xaxis.set_ticks([0, 1, 2, 3, 4, 5, 6], classes, rotation=60)
-#         ax.yaxis.set_ticks([0, 1, 2, 3, 4, 5, 6], classes)
         plt.title(title)
     
     return accuracy_score(y_test,pred)
