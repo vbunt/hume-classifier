@@ -1,0 +1,373 @@
+,volume,genre,burst_len,chapter,start_in_chapter
+0,Volume 1 (1762),dissertation,9,I,32
+1,Volume 1 (1762),dissertation,4,I,2
+2,Volume 1 (1762),dissertation,4,I,71
+3,Volume 1 (1762),dissertation,4,II,35
+4,Volume 1 (1762),dissertation,4,II,76
+5,Volume 1 (1762),dissertation,4,APPENDIX I,22
+6,Volume 1 (1762),dissertation,4,V,8
+7,Volume 1 (1762),dissertation,4,V,17
+8,Volume 1 (1762),enquiry,21,APPENDIX I,7
+9,Volume 1 (1762),enquiry,8,II,24
+10,Volume 1 (1762),enquiry,9,II,64
+11,Volume 1 (1762),enquiry,10,APPENDIX I,32
+12,Volume 1 (1762),enquiry,7,XI,64
+13,Volume 1 (1762),enquiry,7,APPENDIX II,3
+14,Volume 1 (1762),essay,19,I,2
+15,Volume 1 (1762),essay,17,APPENDIX I,9
+16,Volume 1 (1762),essay,20,II,52
+17,Volume 1 (1762),essay,20,XI,65
+18,Volume 1 (1762),essay,8,I,69
+19,Volume 1 (1762),essay,6,II,33
+20,Volume 1 (1762),essay,5,APPENDIX I,0
+21,Volume 1 (1762),essay,7,APPENDIX I,33
+22,Volume 1 (1762),essay,5,II,25
+23,Volume 1 (1762),essay,5,XI,19
+24,Volume 1 (1762),essay,1,APPENDIX II,56
+25,Volume 1 (1762),essay,4,I,39
+26,Volume 1 (1762),essay,4,VI,14
+27,Volume 1 (1762),essay,2,II,15
+28,Volume 1 (1762),political discourses,50,APPENDIX I,1
+29,Volume 1 (1762),political discourses,22,I,2
+30,Volume 1 (1762),political discourses,19,XI,68
+31,Volume 1 (1762),political discourses,9,II,29
+32,Volume 1 (1762),political discourses,13,APPENDIX II,35
+33,Volume 1 (1762),political discourses,6,V,11
+34,Volume 1 (1762),political discourses,11,APPENDIX II,21
+35,Volume 1 (1762),political discourses,6,IX,50
+36,Volume 1 (1762),political discourses,3,APPENDIX II,54
+37,Volume 1 (1762),political discourses,4,IV,46
+38,Volume 1 (1762),political discourses,3,I,29
+39,Volume 1 (1762),political discourses,3,IX,27
+40,Volume 1 (1762),political discourses,2,VIII ,1
+41,Volume 1 (1762),political discourses,2,X,36
+42,Volume 2 (1762),dissertation,4,XII,86
+43,Volume 2 (1762),dissertation,4,XXIII,29
+44,Volume 2 (1762),enquiry,14,XXIII,28
+45,Volume 2 (1762),enquiry,8,XX,43
+46,Volume 2 (1762),enquiry,7,XX,30
+47,Volume 2 (1762),enquiry,4,XII,86
+48,Volume 2 (1762),enquiry,4,XXIII,6
+49,Volume 2 (1762),enquiry,4,XXII,35
+50,Volume 2 (1762),enquiry,4,XXI,3
+51,Volume 2 (1762),enquiry,4,XX,66
+52,Volume 2 (1762),enquiry,4,XIX,34
+53,Volume 2 (1762),enquiry,4,XVII,60
+54,Volume 2 (1762),enquiry,4,XVII,21
+55,Volume 2 (1762),enquiry,4,XVI,30
+56,Volume 2 (1762),enquiry,4,XV,48
+57,Volume 2 (1762),enquiry,4,XIV,36
+58,Volume 2 (1762),enquiry,4,XIII,93
+59,Volume 2 (1762),enquiry,4,XIII,70
+60,Volume 2 (1762),enquiry,4,XIII,58
+61,Volume 2 (1762),essay,14,XXIII,28
+62,Volume 2 (1762),essay,8,XVIII,25
+63,Volume 2 (1762),essay,5,XVI,77
+64,Volume 2 (1762),essay,4,XXI,13
+65,Volume 2 (1762),essay,4,XVII,6
+66,Volume 2 (1762),essay,4,XIV,42
+67,Volume 2 (1762),essay,5,XX,22
+68,Volume 2 (1762),essay,4,XX,47
+69,Volume 2 (1762),essay,4,XVII,72
+70,Volume 2 (1762),essay,4,XIX,35
+71,Volume 2 (1762),essay,4,XIII,77
+72,Volume 2 (1762),essay,4,XVII,64
+73,Volume 2 (1762),essay,3,XXII,21
+74,Volume 2 (1762),essay,3,XXII,8
+75,Volume 2 (1762),essay,3,XII,86
+76,Volume 2 (1762),essay,3,XXI,4
+77,Volume 2 (1762),essay,3,XII,97
+78,Volume 2 (1762),essay,3,XX,37
+79,Volume 2 (1762),essay,3,XIII,9
+80,Volume 2 (1762),essay,3,XVI,45
+81,Volume 2 (1762),essay,3,XVII,52
+82,Volume 2 (1762),essay,3,XIV,34
+83,Volume 2 (1762),essay,3,XV,28
+84,Volume 2 (1762),political discourses,12,XXIII,30
+85,Volume 2 (1762),political discourses,13,XIII,87
+86,Volume 2 (1762),political discourses,31,XVI,62
+87,Volume 2 (1762),political discourses,10,XIV,38
+88,Volume 2 (1762),political discourses,13,XII,89
+89,Volume 2 (1762),political discourses,6,XVIII,26
+90,Volume 2 (1762),political discourses,7,XVII,70
+91,Volume 2 (1762),political discourses,8,XXI,36
+92,Volume 2 (1762),political discourses,5,XIX,42
+93,Volume 2 (1762),political discourses,11,XX,18
+94,Volume 2 (1762),political discourses,11,XIII,59
+95,Volume 2 (1762),political discourses,9,XII,32
+96,Volume 2 (1762),political discourses,5,XIII,12
+97,Volume 2 (1762),political discourses,9,XV,28
+98,Volume 2 (1762),political discourses,7,XVI,30
+99,Volume 2 (1762),political discourses,4,XIII,33
+100,Volume 2 (1762),political discourses,7,XII,12
+101,Volume 2 (1762),political discourses,4,XV,88
+102,Volume 3 (1759),dialogues,4,XXXIV,10
+103,Volume 3 (1759),dissertation,6,XXXI,46
+104,Volume 3 (1759),dissertation,9,XXIX,2
+105,Volume 3 (1759),dissertation,5,XXXIV,35
+106,Volume 3 (1759),dissertation,6,XXXVII,7
+107,Volume 3 (1759),dissertation,4,XXX,60
+108,Volume 3 (1759),dissertation,4,XXXI,28
+109,Volume 3 (1759),dissertation,4,XXXI,72
+110,Volume 3 (1759),dissertation,4,XXXII,48
+111,Volume 3 (1759),dissertation,4,XXXIV,4
+112,Volume 3 (1759),dissertation,4,XXXIV,10
+113,Volume 3 (1759),dissertation,4,XXXIV,51
+114,Volume 3 (1759),dissertation,4,XXXVI,6
+115,Volume 3 (1759),dissertation,4,XXXVII,0
+116,Volume 3 (1759),enquiry,10,XXVIII,38
+117,Volume 3 (1759),enquiry,17,XXXVII,0
+118,Volume 3 (1759),enquiry,5,XXXIV,35
+119,Volume 3 (1759),enquiry,5,XXXIV,9
+120,Volume 3 (1759),enquiry,7,XXVII,7
+121,Volume 3 (1759),enquiry,8,XXXV,25
+122,Volume 3 (1759),essay,19,XXXVI,40
+123,Volume 3 (1759),essay,17,XXIX,0
+124,Volume 3 (1759),essay,14,XXXIV,8
+125,Volume 3 (1759),essay,9,XXVII,5
+126,Volume 3 (1759),essay,6,XXX,5
+127,Volume 3 (1759),essay,7,XXVI,42
+128,Volume 3 (1759),essay,5,XXVIII,23
+129,Volume 3 (1759),essay,6,XXX,59
+130,Volume 3 (1759),essay,5,XXXVII,21
+131,Volume 3 (1759),essay,7,XXX,30
+132,Volume 3 (1759),essay,5,XXXI,28
+133,Volume 3 (1759),essay,4,XXXII,47
+134,Volume 3 (1759),essay,7,XXIX,55
+135,Volume 3 (1759),essay,3,XXIV,2
+136,Volume 3 (1759),essay,4,XXXIII,44
+137,Volume 3 (1759),essay,4,XXXVI,18
+138,Volume 3 (1759),political discourses,13,XXXIII,53
+139,Volume 3 (1759),political discourses,10,XXVI,36
+140,Volume 3 (1759),political discourses,12,XXIX,0
+141,Volume 3 (1759),political discourses,9,XXVII,6
+142,Volume 3 (1759),political discourses,6,XXXIV,56
+143,Volume 3 (1759),political discourses,8,XXVIII,9
+144,Volume 3 (1759),political discourses,8,XXXVII,15
+145,Volume 3 (1759),political discourses,5,XXXI,60
+146,Volume 3 (1759),political discourses,4,XXXV,35
+147,Volume 3 (1759),political discourses,4,XXIX,57
+148,Volume 3 (1759),political discourses,4,XXV,0
+149,Volume 3 (1759),political discourses,2,XXXVII,47
+150,Volume 3 (1759),political discourses,4,XXX,5
+151,Volume 3 (1759),political discourses,3,XXIV,3
+152,Volume 4 (1759),dissertation,4,XXXVIII,14
+153,Volume 4 (1759),dissertation,4,XXXVIII,23
+154,Volume 4 (1759),dissertation,4,XXXVIII,47
+155,Volume 4 (1759),dissertation,4,XL,0
+156,Volume 4 (1759),dissertation,4,XLII,44
+157,Volume 4 (1759),dissertation,4,XLIV,41
+158,Volume 4 (1759),enquiry,15,XLII,34
+159,Volume 4 (1759),enquiry,5,XLII,18
+160,Volume 4 (1759),enquiry,5,XLIV,40
+161,Volume 4 (1759),enquiry,7,XLIV,58
+162,Volume 4 (1759),enquiry,8,APPENDIX III,16
+163,Volume 4 (1759),enquiry,4,XL,33
+164,Volume 4 (1759),enquiry,4,XLI,19
+165,Volume 4 (1759),enquiry,4,XXXIX,52
+166,Volume 4 (1759),enquiry,4,XXXVIII,12
+167,Volume 4 (1759),enquiry,4,XLII,69
+168,Volume 4 (1759),enquiry,4,XLIV,1
+169,Volume 4 (1759),enquiry,4,XLIV,13
+170,Volume 4 (1759),enquiry,4,XLIV,26
+171,Volume 4 (1759),enquiry,4,XXXIX,22
+172,Volume 4 (1759),enquiry,4,XLIV,51
+173,Volume 4 (1759),enquiry,4,XXXVIII,53
+174,Volume 4 (1759),essay,14,XLIV,59
+175,Volume 4 (1759),essay,12,XXXVIII,44
+176,Volume 4 (1759),essay,13,XLII,35
+177,Volume 4 (1759),essay,7,XXXVIII,62
+178,Volume 4 (1759),essay,8,APPENDIX III,13
+179,Volume 4 (1759),essay,9,XL,0
+180,Volume 4 (1759),essay,12,XLIII,43
+181,Volume 4 (1759),essay,5,XL,35
+182,Volume 4 (1759),essay,5,APPENDIX III,60
+183,Volume 4 (1759),essay,6,XLI,28
+184,Volume 4 (1759),essay,4,XXXVIII,20
+185,Volume 4 (1759),essay,4,XL,50
+186,Volume 4 (1759),essay,4,XLII,2
+187,Volume 4 (1759),essay,4,APPENDIX III,29
+188,Volume 4 (1759),political discourses,30,APPENDIX III,34
+189,Volume 4 (1759),political discourses,18,APPENDIX III,6
+190,Volume 4 (1759),political discourses,8,XLIII,47
+191,Volume 4 (1759),political discourses,8,XXXVIII,61
+192,Volume 4 (1759),political discourses,4,XL,51
+193,Volume 4 (1759),political discourses,4,XLII,63
+194,Volume 4 (1759),political discourses,3,XLI,37
+195,Volume 4 (1759),political discourses,3,XLIII,41
+196,Volume 4 (1759),treatise,4,XLIV,61
+197,Volume 5 (1754),dissertation,11,A. TO THE REIGN OF JAMES I,54
+198,Volume 5 (1754),dissertation,5,LVII,26
+199,Volume 5 (1754),dissertation,7,XLV,12
+200,Volume 5 (1754),dissertation,4,LV,26
+201,Volume 5 (1754),dissertation,4,LIX,26
+202,Volume 5 (1754),dissertation,4,LVII,59
+203,Volume 5 (1754),dissertation,4,LVI,16
+204,Volume 5 (1754),dissertation,4,LV,92
+205,Volume 5 (1754),dissertation,4,LV,37
+206,Volume 5 (1754),dissertation,4,LIV,79
+207,Volume 5 (1754),dissertation,4,XLVI,13
+208,Volume 5 (1754),dissertation,4,LIII,18
+209,Volume 5 (1754),dissertation,4,LII,21
+210,Volume 5 (1754),dissertation,4,LII,10
+211,Volume 5 (1754),dissertation,4,LI,28
+212,Volume 5 (1754),dissertation,4,A. TO THE REIGN OF JAMES I,11
+213,Volume 5 (1754),dissertation,4,XLVI,41
+214,Volume 5 (1754),dissertation,4,LIX,123
+215,Volume 5 (1754),enquiry,12,LIV,55
+216,Volume 5 (1754),enquiry,10,LIV,73
+217,Volume 5 (1754),enquiry,8,LV,88
+218,Volume 5 (1754),enquiry,6,LII,16
+219,Volume 5 (1754),enquiry,7,LIX,131
+220,Volume 5 (1754),enquiry,7,LI,40
+221,Volume 5 (1754),enquiry,11,LIX,112
+222,Volume 5 (1754),enquiry,11,XLVI,55
+223,Volume 5 (1754),enquiry,5,A. TO THE REIGN OF JAMES I,60
+224,Volume 5 (1754),enquiry,5,LVII,39
+225,Volume 5 (1754),enquiry,5,LVII,3
+226,Volume 5 (1754),enquiry,5,LII,4
+227,Volume 5 (1754),enquiry,6,LVII,24
+228,Volume 5 (1754),enquiry,6,LI,2
+229,Volume 5 (1754),enquiry,6,L,40
+230,Volume 5 (1754),enquiry,6,LII,65
+231,Volume 5 (1754),enquiry,7,XLVII,4
+232,Volume 5 (1754),enquiry,8,XLVI,43
+233,Volume 5 (1754),enquiry,8,LV,21
+234,Volume 5 (1754),enquiry,9,LIV,89
+235,Volume 5 (1754),essay,17,A. TO THE REIGN OF JAMES I,54
+236,Volume 5 (1754),essay,15,A. TO THE REIGN OF JAMES I,2
+237,Volume 5 (1754),essay,13,XLV,12
+238,Volume 5 (1754),essay,8,LV,23
+239,Volume 5 (1754),essay,8,LIV,76
+240,Volume 5 (1754),essay,7,LII,15
+241,Volume 5 (1754),essay,6,LV,89
+242,Volume 5 (1754),essay,6,LIV,22
+243,Volume 5 (1754),essay,6,XLV,36
+244,Volume 5 (1754),essay,5,XLVI,42
+245,Volume 5 (1754),essay,5,LI,14
+246,Volume 5 (1754),essay,6,LV,46
+247,Volume 5 (1754),essay,5,A. TO THE REIGN OF JAMES I,19
+248,Volume 5 (1754),essay,3,XLVII,32
+249,Volume 5 (1754),essay,3,XLVI,12
+250,Volume 5 (1754),essay,4,L,56
+251,Volume 5 (1754),essay,3,LII,6
+252,Volume 5 (1754),essay,3,LIII,5
+253,Volume 5 (1754),essay,3,LVI,1
+254,Volume 5 (1754),essay,4,LIV,40
+255,Volume 5 (1754),essay,2,XLVII,6
+256,Volume 5 (1754),essay,2,LVII,27
+257,Volume 5 (1754),essay,3,LI,56
+258,Volume 5 (1754),essay,2,LIV,64
+259,Volume 5 (1754),essay,2,LI,10
+260,Volume 5 (1754),essay,2,LI,4
+261,Volume 5 (1754),essay,2,LV,77
+262,Volume 5 (1754),essay,2,LVI,17
+263,Volume 5 (1754),essay,2,LV,11
+264,Volume 5 (1754),political discourses,50,A. TO THE REIGN OF JAMES I,9
+265,Volume 5 (1754),political discourses,23,XLVI,42
+266,Volume 5 (1754),political discourses,12,LII,14
+267,Volume 5 (1754),political discourses,13,LII,29
+268,Volume 5 (1754),political discourses,10,LIX,20
+269,Volume 5 (1754),political discourses,7,LIV,65
+270,Volume 5 (1754),political discourses,9,L,49
+271,Volume 5 (1754),political discourses,7,LIV,75
+272,Volume 5 (1754),political discourses,10,LV,23
+273,Volume 5 (1754),political discourses,5,LIV,15
+274,Volume 5 (1754),political discourses,5,LI,5
+275,Volume 5 (1754),political discourses,5,LIX,105
+276,Volume 5 (1754),political discourses,5,LII,78
+277,Volume 5 (1754),political discourses,6,LVI,28
+278,Volume 5 (1754),political discourses,4,XLVIII,4
+279,Volume 5 (1754),political discourses,4,LIV,93
+280,Volume 5 (1754),political discourses,4,XLVIII,22
+281,Volume 5 (1754),political discourses,4,XLVI,24
+282,Volume 5 (1754),political discourses,4,LII,1
+283,Volume 5 (1754),political discourses,4,XLVIII,13
+284,Volume 5 (1754),political discourses,4,LIX,47
+285,Volume 5 (1754),political discourses,4,XLIX,38
+286,Volume 5 (1754),political discourses,4,LII,53
+287,Volume 5 (1754),political discourses,4,XLV,15
+288,Volume 5 (1754),political discourses,4,XLV,41
+289,Volume 5 (1754),political discourses,4,LII,61
+290,Volume 5 (1754),treatise,4,L,42
+291,Volume 5 (1754),treatise,4,LIV,73
+292,Volume 6 (1757),dissertation,14,LXII,92
+293,Volume 6 (1757),dissertation,4,LXXI,98
+294,Volume 6 (1757),dissertation,6,LX,38
+295,Volume 6 (1757),dissertation,6,LXII,70
+296,Volume 6 (1757),dissertation,4,LXIII,16
+297,Volume 6 (1757),dissertation,4,LXIII,35
+298,Volume 6 (1757),dissertation,4,LXV,34
+299,Volume 6 (1757),dissertation,4,LXXI,88
+300,Volume 6 (1757),enquiry,18,LXII,95
+301,Volume 6 (1757),enquiry,17,LXII,64
+302,Volume 6 (1757),enquiry,9,LXI,87
+303,Volume 6 (1757),enquiry,9,LXIX,31
+304,Volume 6 (1757),enquiry,13,LXXI,89
+305,Volume 6 (1757),enquiry,7,LXIX,62
+306,Volume 6 (1757),enquiry,10,LXIX,45
+307,Volume 6 (1757),enquiry,5,LXIV,74
+308,Volume 6 (1757),enquiry,5,LXI,70
+309,Volume 6 (1757),enquiry,5,LXVIII,55
+310,Volume 6 (1757),enquiry,5,LXVIII,33
+311,Volume 6 (1757),enquiry,6,LXX,23
+312,Volume 6 (1757),enquiry,7,LXI,51
+313,Volume 6 (1757),enquiry,7,LXVII,60
+314,Volume 6 (1757),enquiry,8,LX,31
+315,Volume 6 (1757),enquiry,8,LXVI,71
+316,Volume 6 (1757),enquiry,8,LXII,4
+317,Volume 6 (1757),essay,13,LXXI,89
+318,Volume 6 (1757),essay,13,LXII,94
+319,Volume 6 (1757),essay,15,LXI,48
+320,Volume 6 (1757),essay,8,LXXI,64
+321,Volume 6 (1757),essay,11,LXII,65
+322,Volume 6 (1757),essay,7,LXIX,63
+323,Volume 6 (1757),essay,5,LXIV,63
+324,Volume 6 (1757),essay,6,LXIX,15
+325,Volume 6 (1757),essay,6,LXVIII,0
+326,Volume 6 (1757),essay,6,LXV,68
+327,Volume 6 (1757),essay,4,LXVII,11
+328,Volume 6 (1757),essay,4,LXV,13
+329,Volume 6 (1757),essay,4,LXIII,35
+330,Volume 6 (1757),essay,4,LX,70
+331,Volume 6 (1757),essay,4,LXII,8
+332,Volume 6 (1757),essay,2,LXX,6
+333,Volume 6 (1757),essay,1,LX,2
+334,Volume 6 (1757),essay,2,LXII,88
+335,Volume 6 (1757),essay,2,LXVII,54
+336,Volume 6 (1757),essay,2,LX,38
+337,Volume 6 (1757),essay,2,LXXI,55
+338,Volume 6 (1757),essay,2,LXXI,46
+339,Volume 6 (1757),essay,2,LXI,5
+340,Volume 6 (1757),essay,2,LXI,19
+341,Volume 6 (1757),essay,2,LXIII,55
+342,Volume 6 (1757),essay,2,LXI,27
+343,Volume 6 (1757),essay,2,LXV,0
+344,Volume 6 (1757),political discourses,25,LXII,67
+345,Volume 6 (1757),political discourses,17,LXXI,70
+346,Volume 6 (1757),political discourses,9,LXV,57
+347,Volume 6 (1757),political discourses,15,LXIV,36
+348,Volume 6 (1757),political discourses,14,LXVI,71
+349,Volume 6 (1757),political discourses,8,LXI,49
+350,Volume 6 (1757),political discourses,9,LXI,35
+351,Volume 6 (1757),political discourses,6,LXV,69
+352,Volume 6 (1757),political discourses,5,LXIV,3
+353,Volume 6 (1757),political discourses,8,LXVII,11
+354,Volume 6 (1757),political discourses,6,LXVI,25
+355,Volume 6 (1757),political discourses,9,LXIV,93
+356,Volume 6 (1757),political discourses,9,LX,71
+357,Volume 6 (1757),political discourses,4,LXXI,98
+358,Volume 6 (1757),political discourses,5,LXX,24
+359,Volume 6 (1757),political discourses,6,LXV,5
+360,Volume 6 (1757),political discourses,7,LXI,93
+361,Volume 6 (1757),political discourses,4,LXIV,63
+362,Volume 6 (1757),political discourses,4,LXI,26
+363,Volume 6 (1757),political discourses,5,LXI,10
+364,Volume 6 (1757),political discourses,4,LX,83
+365,Volume 6 (1757),political discourses,4,LXIII,10
+366,Volume 6 (1757),political discourses,4,LXII,61
+367,Volume 6 (1757),political discourses,4,LXV,46
+368,Volume 6 (1757),treatise,4,LXI,45
+369,Volume 6 (1757),treatise,4,LXI,92
+370,Volume 6 (1757),treatise,4,LXIII,35
+371,Volume 6 (1757),treatise,4,LXXI,94
