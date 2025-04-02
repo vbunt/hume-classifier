@@ -6,6 +6,7 @@ import pandas as pd
 import random
 from numpy import mean, std
 from tqdm.notebook import tqdm as tqdm
+import pickle
 
 classes = ['dialogues', 'dissertation', 'enquiry', 'essay', 'history', 'political discourses', 'treatise']
 
@@ -102,4 +103,51 @@ def run_many(model, n):
         
     print('Mean accuracy: ', mean(accuracy_scores))
     print('Standard deviation for accuracy: ', std(accuracy_scores))
+    
+    
+def feature_extraction(model_path, vect_path, name, n=20):
+    
+    if isinstance(model_path, str):
+        with open(model_path, 'rb') as f:
+            model = pickle.load(f) 
+    else:
+        model = model_path
+        
+    if isinstance(vect_path, str):
+        with open(vect_path, 'rb') as f:
+            vect = pickle.load(f)           
+    else:
+        vect = vect_path
+            
+    
+    feature_names = list(vect.get_feature_names_out())
+    
+    with open(f'model_features/{name}.txt', 'w') as file:
+        
+        for genre in label2id.keys():
+        
+            ind = label2id[genre]
+
+            zips = [(name, coef) for name, coef in zip(feature_names, model.coef_[ind])]
+            
+            file.write(f'{genre} | positive')
+            file.write('\n')
+
+            for word in sorted(zips, key = lambda pair: pair[1], reverse=True)[:n]:
+                file.write(f'{word[0]}    {word[1]:.2f}')
+                file.write('\n')
+                
+            file.write('\n')
+            file.write('\n')
+
+            file.write(f'{genre} | negative')
+            file.write('\n')
+
+            for word in sorted(zips, key = lambda pair: pair[1])[:n]:
+                file.write(f'{word[0]}    {word[1]:.2f}')
+                file.write('\n')
+
+            file.write('\n')
+            file.write('\n')
+            
 
