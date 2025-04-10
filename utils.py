@@ -100,43 +100,14 @@ def get_scores(pred, y_test, title, matrix=True, print_=True):
     if matrix:
         fig, ax = plt.subplots(figsize=(10, 5))
         ConfusionMatrixDisplay.from_predictions(y_test, pred, ax=ax)
-        
-        left = min(min(y_test), min(pred))
-        right = max(max(y_test), max(pred))
-        ax.xaxis.set_ticks([i for i in range(0, right+1-left)], classes[left:right+1], rotation=60)
-        ax.yaxis.set_ticks([i for i in range(0, right+1-left)], classes[left:right+1])
-        plt.title(title)
+
+        cl = list(set(y_test) | set(pred))
+        labels = [classes[i] for i in cl]
+
+        ax.xaxis.set_ticks([i for i in range(0, len(cl))], labels, rotation=60)
+        ax.yaxis.set_ticks([i for i in range(0, len(cl))], labels)
     
     return acc, f1
-
-
-def run_once(model):
-    seed = random.randint(1, 100)
-    dataset = import_dataset(seed)
-    
-    y_train = dataset['train']['labels']
-    y_test = dataset['test']['labels']
-    
-    vectorizer = TfidfVectorizer(max_features=5000)
-    x_train = vectorizer.fit_transform(dataset['train']['text'])
-    x_test = vectorizer.transform(dataset['test']['text'])
-    
-    
-    model.fit(x_train,y_train)
-    svm_pred = model.predict(x_test)
-
-    accuracy = get_scores(svm_pred, y_test, '_', matrix=False) #!
-    
-    return accuracy
-
-
-def run_many(model, n):
-    accuracy_scores = []
-    for i in tqdm(range(n)):
-        accuracy_scores.append(run_once(model)) #!
-        
-    print('Mean accuracy: ', mean(accuracy_scores))
-    print('Standard deviation for accuracy: ', std(accuracy_scores))
     
     
 def feature_extraction(model_path, vect_path, name, n=20):
