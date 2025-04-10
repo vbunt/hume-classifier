@@ -1,5 +1,5 @@
 from datasets import Dataset, DatasetDict
-from sklearn.metrics import accuracy_score, confusion_matrix, ConfusionMatrixDisplay
+from sklearn.metrics import accuracy_score, f1_score, confusion_matrix, ConfusionMatrixDisplay
 from sklearn.feature_extraction.text import TfidfVectorizer
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -89,8 +89,13 @@ def import_dataset(my_seed=13, history_data='random'):
 
 
 def get_scores(pred, y_test, title, matrix=True, print_=True):
+    
+    acc = accuracy_score(y_test, pred) * 100
+    f1 = f1_score(y_test, pred, average='micro') * 100
+    
     if print_:
-        print(f"Accuracy: {accuracy_score(y_test,pred)}%")
+        print(f"Accuracy: {acc:.2f}")
+        print(f"F1: {f1:.2f}")
 
     if matrix:
         fig, ax = plt.subplots(figsize=(10, 5))
@@ -102,7 +107,8 @@ def get_scores(pred, y_test, title, matrix=True, print_=True):
         ax.yaxis.set_ticks([i for i in range(0, right+1-left)], classes[left:right+1])
         plt.title(title)
     
-    return accuracy_score(y_test,pred)
+    return acc, f1
+
 
 def run_once(model):
     seed = random.randint(1, 100)
@@ -119,14 +125,15 @@ def run_once(model):
     model.fit(x_train,y_train)
     svm_pred = model.predict(x_test)
 
-    accuracy = get_scores(svm_pred, y_test, '_', matrix=False)
+    accuracy = get_scores(svm_pred, y_test, '_', matrix=False) #!
     
     return accuracy
+
 
 def run_many(model, n):
     accuracy_scores = []
     for i in tqdm(range(n)):
-        accuracy_scores.append(run_once(model))
+        accuracy_scores.append(run_once(model)) #!
         
     print('Mean accuracy: ', mean(accuracy_scores))
     print('Standard deviation for accuracy: ', std(accuracy_scores))
