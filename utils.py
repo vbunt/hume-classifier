@@ -10,6 +10,30 @@ import pickle
 
 classes = ['dialogues', 'dissertation', 'enquiry', 'essay', 'history', 'political discourses', 'treatise']
 
+stopwords = ['in', 'a', 'that', 'his', 'was',
+             'by', 'which', 'he', 'it', 'with',
+             'as', 'had', 'is', 'their', 'be',
+             'this', 'for', 'from', 'but', 'were',
+             'all', 'or', 'they', 'not', 'on',
+             'him', 'any', 'an', 'them', 'so',
+             'at', 'who', 'we', 'more', 'are',
+             'these', 'have', 'no', 'her', "'s",
+             'been', 'such', 'into', 'other', 'one',
+             'than', 'would', 'some', 'every', 'though',
+             'against', 'when', 'those', 'if', 'may',
+             'our', 'most', 'same', 'i', 'even',
+             'should', 'could', 'she', 'there', 'himself',
+             'upon', 'only', 'can', 'without', 'must',
+             'after', 'its', 'much', 'being', 'still',
+             'first', 'us', 'what', 'where', 'will',
+             'many', 'never', 'has', 'now', 'both',
+             'might', 'during', 'themselves', 'before', 'ever',
+             'under', 'among', 'therefore', 'over', 'yet',
+             'cause', 'either', 'also', 'having', 'nor',
+             'between', 'you', 'whom', 'each', 'another',
+             'while', 'then', 'however', 'too']
+
+
 id2label = {0: "dialogues", 
             1: "dissertation",
             2: "enquiry",
@@ -20,14 +44,17 @@ id2label = {0: "dialogues",
 
 label2id = {val : key for key, val in id2label.items()}
 
-def import_dataset(my_seed=13):
+def import_dataset(my_seed=13, history_data='random'):
     df = pd.read_json('all.json')
     
     # ignore abstract, letter
     # take all dialogues, dissertation, essays, political discourses
     # choose 500 random paragraphs from history, treatise, enquiry
-
-    history_dataset = df[df.genre=='history'].sample(n=500, random_state=my_seed)
+    
+    if history_data == 'random':
+        history_dataset = df[df.genre=='history'].sample(n=500, random_state=my_seed)
+    elif history_data == 'automatic':
+        history_dataset = pd.read_json('hume_json/history_automatic.json')
     treatise_dataset = df[df.genre=='treatise'].sample(n=500, random_state=my_seed)
     enquiry_dataset = df[df.genre=='enquiry'].sample(n=500, random_state=my_seed)
 

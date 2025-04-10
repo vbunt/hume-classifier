@@ -1,0 +1,322 @@
+dialogues | positive
+pron verb    1.42
+adj    1.28
+adv    1.13
+verb noun    1.07
+noun verb noun    1.07
+pron    1.04
+conj pron verb    0.99
+verb noun adp    0.83
+adj verb noun    0.77
+noun conj pron    0.72
+det adj adj    0.72
+pron verb adp    0.72
+conj pron    0.71
+verb    0.67
+adv adj    0.66
+adv verb verb    0.65
+verb adv    0.64
+adj adj    0.62
+adj noun adp    0.59
+noun det pron    0.57
+
+
+dialogues | negative
+adp    -1.10
+det    -0.93
+num    -0.92
+noun verb adp    -0.85
+det noun adp    -0.84
+det noun    -0.78
+adp det    -0.72
+verb adp    -0.69
+adp det noun    -0.68
+verb verb adp    -0.66
+noun verb verb    -0.61
+verb adp det    -0.59
+adp noun    -0.57
+pron noun conj    -0.55
+adp noun adp    -0.53
+noun    -0.53
+det noun prt    -0.49
+adp num    -0.49
+det noun verb    -0.47
+num noun    -0.46
+
+
+dissertation | positive
+conj noun    1.00
+num det    0.96
+noun conj noun    0.90
+adj verb    0.89
+adj conj adj    0.75
+det adj    0.74
+num det adj    0.74
+noun adv noun    0.71
+det verb det    0.71
+num pron verb    0.70
+num pron    0.67
+adp noun det    0.62
+num adp    0.61
+adj verb adj    0.58
+noun adv verb    0.56
+num    0.56
+noun noun adv    0.53
+conj verb noun    0.52
+pron adp    0.51
+conj noun det    0.50
+
+
+dissertation | negative
+verb    -1.46
+pron    -1.09
+adp    -1.06
+prt    -0.89
+adv pron    -0.79
+adv pron verb    -0.78
+verb verb adp    -0.71
+verb adp det    -0.70
+pron verb    -0.68
+verb pron verb    -0.67
+adp adj    -0.64
+adp adj det    -0.61
+verb adp    -0.59
+prt verb    -0.58
+verb verb    -0.58
+pron verb adv    -0.57
+conj verb adv    -0.57
+conj det    -0.57
+noun noun noun    -0.55
+noun pron    -0.55
+
+
+enquiry | positive
+noun conj noun    1.26
+conj noun    1.17
+conj    1.11
+noun adp adj    1.10
+noun conj adj    1.00
+noun conj    0.99
+conj det adj    0.93
+adp det det    0.93
+conj adj    0.92
+conj adj noun    0.89
+pron verb    0.86
+adv pron verb    0.85
+adj noun conj    0.81
+adv pron    0.78
+pron    0.76
+verb noun adj    0.75
+adp noun conj    0.73
+noun det pron    0.73
+adv    0.72
+adp pron verb    0.72
+
+
+enquiry | negative
+adp verb    -1.21
+num    -1.06
+noun noun    -1.01
+adp det noun    -0.85
+noun verb    -0.85
+noun adp verb    -0.84
+adp verb pron    -0.83
+noun adp det    -0.79
+noun conj pron    -0.77
+noun noun verb    -0.77
+num noun    -0.74
+verb noun adp    -0.73
+noun    -0.73
+conj adp adj    -0.67
+det noun noun    -0.67
+noun det    -0.59
+num noun conj    -0.59
+verb num    -0.59
+noun pron verb    -0.56
+conj pron verb    -0.55
+
+
+essay | positive
+adj    1.10
+verb adv verb    1.09
+adv verb pron    0.94
+pron adj    0.86
+adv adj noun    0.85
+prt verb verb    0.82
+adj noun    0.76
+noun verb adv    0.75
+verb pron    0.72
+adj adv adj    0.72
+verb adv    0.69
+det adp noun    0.67
+det adv adj    0.66
+noun verb det    0.66
+pron noun    0.63
+adp adj noun    0.63
+noun pron adj    0.60
+conj verb adv    0.59
+pron noun adv    0.59
+verb verb pron    0.59
+
+
+essay | negative
+adp verb    -1.00
+num    -0.97
+det    -0.95
+det noun    -0.93
+det noun pron    -0.82
+det pron verb    -0.80
+adp det verb    -0.80
+pron verb    -0.79
+noun verb noun    -0.78
+det noun det    -0.75
+noun verb adp    -0.74
+adp    -0.74
+det pron    -0.71
+noun det    -0.70
+verb adp verb    -0.67
+pron adv    -0.66
+verb adp    -0.65
+pron verb adp    -0.62
+verb det noun    -0.61
+noun det pron    -0.60
+
+
+history | positive
+noun    4.53
+num num    2.34
+noun num num    2.26
+noun num    2.24
+det noun    2.16
+prt    2.08
+verb adp    1.84
+num    1.81
+noun prt noun    1.81
+prt noun    1.71
+noun noun noun    1.69
+noun noun num    1.68
+noun verb verb    1.58
+noun verb    1.55
+adp    1.55
+pron noun    1.54
+verb    1.53
+verb prt    1.45
+noun det noun    1.42
+num num noun    1.40
+
+
+history | negative
+conj noun    -2.29
+adv    -2.18
+noun conj noun    -2.08
+conj    -1.90
+adj    -1.84
+det verb    -1.61
+verb adv    -1.28
+pron verb    -1.26
+adj conj    -1.24
+verb adj    -1.12
+adv det    -1.06
+adv pron    -1.04
+conj noun adp    -1.04
+adv pron verb    -1.01
+det verb det    -1.00
+noun det verb    -0.99
+noun conj    -0.87
+conj noun det    -0.82
+adp pron verb    -0.80
+verb pron verb    -0.75
+
+
+political discourses | positive
+num noun    0.99
+det noun noun    0.91
+adp noun adp    0.85
+verb det det    0.80
+adp num    0.79
+noun conj pron    0.75
+conj pron noun    0.72
+noun verb adp    0.70
+adv num    0.69
+conj pron    0.66
+adp noun    0.65
+num    0.64
+verb adv num    0.62
+adv adv adv    0.61
+prt num    0.60
+verb verb verb    0.59
+prt adj    0.59
+adp num adp    0.58
+adv prt    0.57
+noun verb num    0.56
+
+
+political discourses | negative
+pron    -2.86
+conj    -1.47
+verb    -1.22
+adj conj    -1.16
+prt pron    -1.12
+adj    -1.11
+adj conj adj    -1.08
+noun noun noun    -1.06
+det    -0.98
+conj noun    -0.97
+det noun conj    -0.97
+pron verb    -0.96
+verb pron    -0.92
+pron noun    -0.92
+adp pron    -0.91
+det pron    -0.88
+verb det adj    -0.87
+pron adv    -0.86
+conj noun adp    -0.86
+noun conj noun    -0.85
+
+
+treatise | positive
+det    3.12
+conj    1.98
+det verb    1.90
+adp    1.58
+pron    1.42
+pron verb    1.42
+verb adj    1.42
+pron verb adj    1.27
+noun det verb    1.27
+adv pron    1.19
+conj adp    1.16
+adj conj    1.15
+adp adp    1.07
+noun conj    1.05
+conj noun    1.03
+adv pron verb    1.02
+adp det verb    1.00
+det noun pron    0.99
+noun conj noun    0.96
+adp adp pron    0.96
+
+
+treatise | negative
+noun    -2.38
+noun adp noun    -1.19
+noun verb    -1.15
+adj noun    -1.14
+noun adp    -1.08
+det noun noun    -1.07
+adv verb verb    -0.98
+noun prt noun    -0.93
+adp noun noun    -0.91
+adv adj    -0.88
+noun noun verb    -0.86
+noun noun    -0.85
+conj pron    -0.85
+prt noun    -0.84
+verb verb    -0.81
+noun verb verb    -0.78
+adj verb    -0.76
+noun verb adv    -0.76
+adv adj noun    -0.73
+adj adj    -0.72
+
+

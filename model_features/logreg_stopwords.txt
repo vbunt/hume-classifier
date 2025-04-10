@@ -1,0 +1,322 @@
+dialogues | positive
+philo    3.77
+cleanthes    3.64
+demea    2.75
+universe    2.52
+world    2.03
+replied    1.81
+deity    1.75
+human    1.71
+religion    1.61
+said    1.57
+animal    1.52
+cause    1.32
+misery    1.26
+argument    1.22
+eternity    1.20
+infinite    1.16
+life    1.15
+design    1.14
+attributes    1.10
+similar    1.01
+
+
+dialogues | negative
+government    -0.85
+object    -0.75
+people    -0.75
+power    -0.72
+passion    -0.71
+public    -0.70
+virtue    -0.59
+king    -0.58
+effect    -0.56
+person    -0.55
+passions    -0.55
+actions    -0.53
+authority    -0.52
+objects    -0.49
+property    -0.48
+farther    -0.48
+society    -0.48
+character    -0.47
+affection    -0.46
+nation    -0.45
+
+
+dissertation | positive
+passions    2.24
+gods    2.20
+passion    1.99
+evil    1.57
+religion    1.43
+uneasiness    1.40
+deities    1.24
+affection    1.22
+invisible    1.22
+religious    1.19
+relation    1.19
+object    1.15
+theism    1.13
+beauty    1.10
+polytheism    1.09
+intelligent    1.08
+pride    1.06
+worship    1.04
+gives    1.04
+god    1.03
+
+
+dissertation | negative
+government    -1.14
+greater    -0.88
+necessary    -0.76
+experience    -0.73
+betwixt    -0.72
+time    -0.69
+life    -0.69
+industry    -0.68
+society    -0.66
+number    -0.65
+liberty    -0.65
+considerable    -0.65
+authority    -0.65
+reasoning    -0.64
+philosophy    -0.61
+ought    -0.60
+king    -0.59
+philo    -0.58
+justice    -0.58
+cleanthes    -0.58
+
+
+enquiry | positive
+fact    1.76
+social    1.65
+testimony    1.55
+reasonings    1.48
+utility    1.48
+sentiment    1.44
+self    1.34
+society    1.33
+experience    1.27
+praise    1.27
+moral    1.23
+actions    1.16
+instance    1.16
+philosophy    1.15
+nature    1.15
+farther    1.11
+useful    1.09
+virtues    1.08
+similar    1.07
+energy    1.05
+
+
+enquiry | negative
+government    -1.30
+great    -1.25
+time    -1.22
+king    -1.11
+betwixt    -1.06
+ancient    -1.04
+philo    -0.94
+passions    -0.92
+makes    -0.88
+cleanthes    -0.88
+produces    -0.82
+passion    -0.81
+people    -0.80
+comparison    -0.79
+religion    -0.76
+arts    -0.76
+new    -0.74
+causes    -0.73
+violent    -0.72
+affairs    -0.67
+
+
+essay | positive
+government    3.09
+constitution    1.67
+man    1.50
+tis    1.40
+parties    1.35
+liberty    1.33
+sciences    1.29
+consent    1.24
+wisdom    1.20
+party    1.15
+women    1.11
+punishment    1.07
+genius    1.06
+thy    1.04
+governments    1.03
+affairs    1.00
+arts    0.99
+pleasures    0.99
+difference    0.98
+impudence    0.97
+
+
+essay | negative
+idea    -1.24
+relation    -0.98
+money    -0.94
+ideas    -0.92
+cause    -0.90
+king    -0.90
+imagination    -0.85
+qualities    -0.82
+objects    -0.81
+philo    -0.79
+cleanthes    -0.77
+war    -0.75
+phenomena    -0.72
+virtues    -0.71
+similar    -0.71
+evidence    -0.71
+evil    -0.70
+gives    -0.69
+action    -0.69
+religion    -0.69
+
+
+history | positive
+king    4.87
+parliament    2.85
+england    2.60
+english    2.20
+army    1.71
+kingdom    1.69
+queen    1.64
+henry    1.64
+duke    1.56
+edward    1.56
+sir    1.54
+lord    1.48
+earl    1.47
+va    1.35
+1754    1.34
+prince    1.33
+reign    1.32
+charles    1.25
+france    1.23
+london    1.19
+
+
+history | negative
+nature    -1.22
+human    -1.14
+shall    -1.13
+mind    -0.95
+reason    -0.94
+mankind    -0.86
+objects    -0.80
+kind    -0.79
+world    -0.78
+says    -0.75
+suppose    -0.74
+experience    -0.73
+society    -0.68
+passions    -0.68
+passion    -0.66
+principles    -0.66
+slaves    -0.65
+idea    -0.62
+imagination    -0.61
+reasoning    -0.61
+
+
+political discourses | positive
+slaves    2.72
+money    2.64
+senate    2.10
+000    1.93
+public    1.90
+ancient    1.89
+people    1.78
+commodities    1.54
+greece    1.54
+luxury    1.47
+magistrates    1.46
+commerce    1.45
+industry    1.42
+land    1.39
+populous    1.39
+trade    1.32
+state    1.31
+county    1.29
+wars    1.23
+silver    1.20
+
+
+political discourses | negative
+nature    -1.22
+objects    -1.12
+mind    -1.11
+object    -1.08
+king    -1.04
+principles    -0.97
+different    -0.97
+passion    -0.96
+passions    -0.95
+human    -0.89
+religion    -0.84
+character    -0.83
+life    -0.82
+idea    -0.79
+justice    -0.78
+said    -0.78
+ideas    -0.77
+conduct    -0.75
+qualities    -0.74
+good    -0.73
+
+
+treatise | positive
+betwixt    2.64
+idea    2.62
+impressions    2.27
+objects    2.12
+ideas    2.01
+action    1.67
+certain    1.66
+imagination    1.60
+evident    1.59
+produce    1.54
+relation    1.54
+derived    1.51
+qualities    1.50
+viz    1.49
+existence    1.34
+perceptions    1.32
+reasoning    1.32
+naturally    1.29
+perfectly    1.28
+pride    1.27
+
+
+treatise | negative
+people    -1.30
+great    -1.21
+sentiment    -0.98
+man    -0.93
+public    -0.90
+farther    -0.88
+religion    -0.83
+life    -0.82
+friendship    -0.77
+mankind    -0.74
+universe    -0.73
+deity    -0.72
+world    -0.72
+says    -0.70
+age    -0.69
+state    -0.66
+king    -0.66
+taste    -0.64
+cleanthes    -0.61
+soon    -0.61
+
+
