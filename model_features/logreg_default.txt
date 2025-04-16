@@ -1,0 +1,322 @@
+dialogues | positive
+cleanthes    3.26
+philo    3.02
+you    2.68
+demea    2.65
+universe    2.14
+world    1.98
+religion    1.70
+replied    1.62
+animal    1.53
+human    1.51
+cause    1.40
+deity    1.31
+your    1.28
+so    1.25
+said    1.22
+can    1.19
+life    1.19
+infinite    1.06
+eternity    1.03
+analogy    1.01
+
+
+dialogues | negative
+the    -1.56
+their    -1.09
+was    -0.92
+by    -0.88
+government    -0.80
+passion    -0.66
+interest    -0.65
+object    -0.64
+those    -0.59
+public    -0.59
+people    -0.57
+among    -0.56
+love    -0.53
+person    -0.53
+may    -0.51
+power    -0.50
+of    -0.50
+her    -0.50
+actions    -0.49
+virtue    -0.47
+
+
+dissertation | positive
+gods    1.84
+passion    1.73
+passions    1.67
+religion    1.56
+deity    1.33
+worship    1.29
+superstition    1.24
+gives    1.22
+taste    1.17
+object    1.12
+beauty    1.10
+god    1.06
+polytheism    1.06
+uneasiness    1.03
+ourselves    1.01
+is    0.99
+deities    0.98
+evil    0.98
+religious    0.96
+emotion    0.91
+
+
+dissertation | negative
+can    -1.13
+to    -1.09
+government    -1.07
+this    -0.81
+my    -0.81
+that    -0.81
+body    -0.79
+king    -0.79
+actions    -0.75
+any    -0.73
+were    -0.70
+only    -0.70
+may    -0.69
+industry    -0.69
+necessary    -0.68
+all    -0.67
+life    -0.65
+interest    -0.65
+liberty    -0.65
+derived    -0.64
+
+
+enquiry | positive
+utility    1.54
+social    1.46
+sentiment    1.45
+testimony    1.45
+or    1.43
+fact    1.35
+virtues    1.32
+you    1.31
+reasonings    1.27
+we    1.26
+society    1.19
+events    1.16
+instance    1.15
+actions    1.10
+merit    1.07
+experience    1.07
+if    1.06
+praise    1.04
+laws    1.04
+moral    1.04
+
+
+enquiry | negative
+government    -1.36
+the    -1.13
+passions    -1.08
+king    -1.01
+great    -0.99
+cleanthes    -0.99
+causes    -0.93
+betwixt    -0.90
+passion    -0.87
+pleasure    -0.80
+further    -0.79
+philo    -0.79
+ancient    -0.76
+time    -0.75
+pride    -0.75
+arts    -0.75
+to    -0.75
+demea    -0.74
+was    -0.73
+new    -0.72
+
+
+essay | positive
+government    2.99
+constitution    1.72
+arts    1.56
+man    1.52
+sciences    1.34
+parties    1.29
+eloquence    1.28
+liberty    1.28
+tis    1.19
+be    1.18
+authority    1.17
+consent    1.17
+life    1.09
+wisdom    1.07
+learning    1.02
+monarchy    1.01
+thy    0.99
+allegiance    0.97
+happy    0.97
+art    0.97
+
+
+essay | negative
+we    -1.30
+these    -1.07
+king    -1.06
+idea    -1.03
+ideas    -1.00
+religion    -0.98
+relation    -0.96
+cause    -0.93
+which    -0.91
+money    -0.87
+any    -0.83
+imagination    -0.79
+deity    -0.78
+same    -0.74
+philo    -0.74
+similar    -0.72
+cleanthes    -0.72
+instance    -0.70
+here    -0.70
+evil    -0.68
+
+
+history | positive
+king    4.66
+the    3.61
+was    3.43
+had    3.01
+his    2.60
+he    2.10
+parliament    1.84
+to    1.81
+of    1.65
+england    1.65
+her    1.45
+english    1.45
+henry    1.41
+earl    1.37
+sir    1.36
+were    1.27
+army    1.25
+duke    1.22
+against    1.15
+kingdom    1.13
+
+
+history | negative
+is    -1.92
+are    -1.23
+we    -1.12
+or    -0.93
+it    -0.88
+may    -0.75
+have    -0.74
+our    -0.73
+has    -0.64
+must    -0.63
+nature    -0.59
+can    -0.58
+us    -0.54
+be    -0.54
+will    -0.51
+human    -0.51
+one    -0.51
+what    -0.49
+you    -0.48
+man    -0.46
+
+
+political discourses | positive
+money    2.88
+slaves    2.38
+people    2.07
+public    1.96
+senate    1.88
+industry    1.76
+000    1.71
+greece    1.51
+commerce    1.49
+ancient    1.40
+magistrates    1.39
+great    1.38
+taxes    1.33
+state    1.31
+luxury    1.30
+county    1.29
+roman    1.29
+trade    1.26
+inhabitants    1.23
+labour    1.21
+
+
+political discourses | negative
+his    -2.31
+you    -1.41
+and    -1.39
+mind    -1.19
+nature    -1.14
+of    -1.13
+passion    -1.08
+objects    -1.05
+him    -1.03
+our    -1.01
+object    -0.99
+human    -0.98
+passions    -0.98
+king    -0.98
+this    -0.98
+her    -0.93
+with    -0.92
+different    -0.89
+religion    -0.88
+to    -0.80
+
+
+treatise | positive
+idea    2.22
+betwixt    2.13
+we    1.95
+impressions    1.95
+objects    1.90
+that    1.82
+ideas    1.70
+is    1.65
+it    1.61
+relation    1.60
+same    1.55
+this    1.50
+any    1.43
+passions    1.32
+imagination    1.31
+pride    1.30
+certain    1.29
+actions    1.29
+action    1.29
+viz    1.29
+
+
+treatise | negative
+between    -1.54
+was    -1.43
+you    -1.40
+he    -1.30
+so    -1.28
+the    -1.16
+people    -1.10
+all    -1.09
+life    -1.02
+seems    -1.00
+sentiment    -0.98
+had    -0.92
+were    -0.88
+man    -0.88
+public    -0.83
+theory    -0.83
+ever    -0.83
+great    -0.83
+could    -0.82
+much    -0.82
+
+

@@ -1,0 +1,322 @@
+dialogues | positive
+root root    1.56
+advmod    1.18
+root root root    1.00
+punct conj    0.93
+punct amod    0.93
+parataxis    0.93
+punct    0.89
+amod    0.87
+ccomp    0.85
+nsubj    0.85
+appos    0.81
+punct root    0.79
+root nsubj punct    0.77
+case amod    0.75
+nsubj aux advmod    0.71
+nsubj det root    0.70
+root punct conj    0.70
+punct root nsubj    0.69
+case amod nmod    0.67
+punct cop nsubj    0.65
+
+
+dialogues | negative
+case    -1.24
+det    -1.15
+pass    -1.05
+case det    -0.98
+case det obl    -0.89
+obl    -0.83
+nmod    -0.80
+obl punct    -0.72
+case nmod    -0.67
+aux pass    -0.65
+flat    -0.60
+case nmod aux    -0.55
+nummod    -0.55
+det obl    -0.53
+fixed    -0.51
+nsubj case    -0.51
+nmod poss    -0.51
+poss    -0.51
+acl relcl det    -0.49
+relcl det    -0.49
+
+
+dissertation | positive
+cc conj    0.94
+root case nmod    0.91
+obl nsubj pass    0.71
+advmod root case    0.68
+cop det root    0.68
+root punct det    0.66
+root punct nsubj    0.66
+case nmod root    0.64
+punct det advmod    0.62
+punct det    0.58
+obj punct aux    0.58
+cop acl    0.58
+relcl cc conj    0.55
+amod advcl punct    0.55
+amod nsubj    0.54
+nsubj cop    0.54
+obl cc    0.53
+mark nsubj case    0.52
+conj punct det    0.52
+nmod punct advmod    0.52
+
+
+dissertation | negative
+aux    -1.39
+nsubj    -1.11
+case    -1.03
+punct cc    -0.98
+mark    -0.95
+nsubj aux    -0.80
+ccomp    -0.74
+nummod    -0.71
+aux advmod    -0.66
+obl    -0.66
+cc nsubj    -0.62
+case det    -0.60
+advmod ccomp    -0.59
+punct cc nsubj    -0.56
+nsubj aux advmod    -0.54
+nsubj conj    -0.54
+nsubj root    -0.54
+xcomp    -0.51
+root det obj    -0.51
+nmod poss conj    -0.51
+
+
+enquiry | positive
+punct    1.30
+nmod cc    1.21
+case nmod cc    0.95
+punct case    0.94
+compound punct    0.88
+amod punct    0.80
+cc conj    0.78
+nmod cc conj    0.78
+conj    0.78
+amod nmod cc    0.78
+punct case obl    0.73
+punct nsubj    0.72
+nmod cc amod    0.72
+root det nsubj    0.71
+ccomp punct    0.70
+nmod punct case    0.70
+punct case det    0.67
+advmod punct case    0.65
+case amod amod    0.65
+amod conj    0.64
+
+
+enquiry | negative
+punct punct    -1.28
+flat    -1.15
+cop case    -0.84
+nummod    -0.83
+case    -0.82
+flat punct    -0.79
+punct cc    -0.77
+punct det nsubj    -0.76
+det    -0.76
+cop    -0.75
+appos    -0.75
+mark acl    -0.73
+nsubj cop    -0.71
+nsubj cop case    -0.71
+punct appos    -0.68
+obj    -0.67
+nmod nsubj    -0.67
+det obl nsubj    -0.66
+compound    -0.66
+punct cc punct    -0.66
+
+
+essay | positive
+aux    1.19
+aux nsubj    0.95
+aux nsubj root    0.95
+root    0.93
+goeswith    0.90
+amod    0.81
+det advmod amod    0.77
+conj punct case    0.73
+punct cc root    0.70
+advmod amod    0.69
+advmod root det    0.68
+punct parataxis    0.67
+root obj    0.64
+cc det    0.59
+cc root    0.59
+case amod obl    0.58
+compound obj case    0.58
+det advmod    0.58
+aux advcl case    0.58
+punct aux nsubj    0.56
+
+
+essay | negative
+acl    -0.95
+punct punct    -0.80
+case obl    -0.72
+case obl punct    -0.68
+conj    -0.66
+ccomp    -0.63
+nsubj acl    -0.61
+advcl det    -0.61
+nsubj    -0.61
+nmod punct conj    -0.60
+cc mark    -0.59
+det    -0.58
+advmod parataxis    -0.57
+det obj    -0.56
+nmod nsubj acl    -0.55
+obl nsubj    -0.55
+nummod    -0.54
+advcl det obj    -0.54
+punct conj    -0.53
+acl relcl cc    -0.53
+
+
+history | positive
+punct punct    3.82
+case    3.53
+punct    3.23
+flat    3.04
+nmod    3.02
+nmod poss    2.24
+poss    2.24
+obj    2.17
+obl    2.04
+nmod poss case    1.99
+poss case    1.99
+punct punct punct    1.88
+det    1.79
+flat punct    1.74
+pass    1.70
+case nmod    1.62
+obj case    1.47
+det nmod poss    1.45
+nmod punct    1.42
+appos    1.41
+
+
+history | negative
+cop    -1.53
+advmod    -1.51
+cc conj    -1.05
+cc conj punct    -1.03
+nsubj cop    -0.98
+conj punct    -0.93
+nmod cc conj    -0.83
+amod    -0.76
+nmod cc    -0.74
+expl    -0.70
+advmod punct    -0.70
+cop det    -0.68
+cc    -0.63
+nsubj aux    -0.62
+cop advmod    -0.62
+case nmod cc    -0.60
+nsubj aux root    -0.57
+punct advmod punct    -0.55
+aux advmod    -0.53
+case amod    -0.52
+
+
+political discourses | positive
+nummod    1.53
+compound    1.20
+det compound    1.10
+mark acl    0.81
+det nsubj root    0.76
+amod nsubj case    0.72
+case det compound    0.67
+root punct case    0.63
+case nummod obl    0.63
+acl punct    0.61
+case nummod    0.59
+compound nmod punct    0.59
+punct cc det    0.59
+advmod nummod    0.56
+det nsubj    0.55
+cc nmod poss    0.55
+compound nmod    0.55
+cc nmod    0.55
+nsubj aux aux    0.54
+nummod obl    0.54
+
+
+political discourses | negative
+nmod poss    -1.57
+poss    -1.57
+conj    -1.53
+cc conj    -1.46
+obj    -1.29
+nmod    -1.12
+cc    -0.98
+obl nsubj    -0.91
+nsubj    -0.86
+case nmod poss    -0.82
+advcl    -0.77
+mark    -0.76
+case obl nsubj    -0.75
+nsubj advmod    -0.71
+amod cc    -0.69
+cc conj punct    -0.68
+appos case    -0.67
+conj case    -0.66
+nmod cc conj    -0.66
+parataxis    -0.65
+
+
+treatise | positive
+cop    2.21
+nsubj    2.07
+obl nsubj    2.03
+det obl nsubj    1.48
+nsubj cop    1.41
+cc    1.37
+conj    1.35
+expl cop    1.30
+det    1.28
+nsubj nsubj    1.27
+expl    1.24
+mark    1.14
+cc conj    1.12
+case det    1.11
+ccomp    1.04
+nmod nsubj    1.01
+det nsubj nsubj    0.99
+obl nsubj aux    0.98
+acl relcl    0.95
+relcl    0.95
+
+
+treatise | negative
+punct    -4.52
+nmod punct    -1.37
+nsubj punct    -1.17
+amod    -1.16
+compound    -1.15
+punct root    -1.09
+flat    -1.04
+root punct    -0.98
+advmod amod    -0.96
+punct nsubj acl    -0.96
+det compound    -0.91
+case nmod punct    -0.90
+punct punct    -0.88
+punct mark det    -0.84
+nmod poss case    -0.83
+poss case    -0.83
+punct aux    -0.83
+root    -0.82
+advmod aux    -0.81
+punct case    -0.80
+
+

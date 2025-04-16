@@ -1,5 +1,5 @@
 from datasets import Dataset, DatasetDict
-from sklearn.metrics import accuracy_score, f1_score, confusion_matrix, ConfusionMatrixDisplay
+from sklearn.metrics import accuracy_score, f1_score, confusion_matrix, ConfusionMatrixDisplay, precision_recall_fscore_support
 from sklearn.feature_extraction.text import TfidfVectorizer
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -31,7 +31,9 @@ stopwords = ['in', 'a', 'that', 'his', 'was',
              'under', 'among', 'therefore', 'over', 'yet',
              'cause', 'either', 'also', 'having', 'nor',
              'between', 'you', 'whom', 'each', 'another',
-             'while', 'then', 'however', 'too']
+             'while', 'then', 'however', 'too', 'the',
+             'to', 'of', 'and', 'thy', 'tis',
+             'your', 'my', 'betwixt', 'cannot', 'ought']
 
 
 id2label = {0: "dialogues", 
@@ -88,14 +90,21 @@ def import_dataset(my_seed=13, history_data='random'):
     return dataset
 
 
-def get_scores(pred, y_test, title, matrix=True, print_=True):
+def get_scores(pred, y_test, title, matrix=True, print_=True, prec_rec=False):
     
     acc = accuracy_score(y_test, pred) * 100
     f1 = f1_score(y_test, pred, average='micro') * 100
     
     if print_:
         print(f"Accuracy: {acc:.2f}")
-        print(f"F1: {f1:.2f}")
+#         print(f"F1: {f1:.2f}")
+        
+    if prec_rec:
+        s = precision_recall_fscore_support(y_test, pred)
+        print(f'History precision: {s[0][4]*100:.2f}')
+        print(f'History recall: {s[1][4]*100:.2f}')
+#         print(f'History f-score: {s[2][4]:.2f}')
+#         print(f'History support: {s[3][4]}')
 
     if matrix:
         fig, ax = plt.subplots(figsize=(10, 5))
