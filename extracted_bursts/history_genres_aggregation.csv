@@ -1,29 +1,7 @@
-volume,genre,burst_len
-Volume 1 (1762),dissertation,24
-Volume 1 (1762),enquiry,16
-Volume 1 (1762),essay,114
-Volume 1 (1762),political discourses,182
-Volume 1 (1762),treatise,1
-Volume 2 (1762),dissertation,8
-Volume 2 (1762),enquiry,8
-Volume 2 (1762),essay,90
-Volume 2 (1762),political discourses,139
-Volume 3 (1759),dissertation,34
-Volume 3 (1759),enquiry,16
-Volume 3 (1759),essay,147
-Volume 3 (1759),political discourses,121
-Volume 4 (1759),dissertation,22
-Volume 4 (1759),enquiry,11
-Volume 4 (1759),essay,110
-Volume 4 (1759),political discourses,83
-Volume 5 (1754),dialogues,2
-Volume 5 (1754),dissertation,66
-Volume 5 (1754),enquiry,52
-Volume 5 (1754),essay,419
-Volume 5 (1754),political discourses,384
-Volume 5 (1754),treatise,1
-Volume 6 (1757),dissertation,29
-Volume 6 (1757),enquiry,41
-Volume 6 (1757),essay,311
-Volume 6 (1757),political discourses,280
-Volume 6 (1757),treatise,1
+volume,dialogues+enquiry+essay,dissertation,dissertation+enquiry,dissertation+enquiry+essay,dissertation+enquiry+essay+political discourses,dissertation+essay,dissertation+essay+political discourses,dissertation+political discourses,dissertation+treatise,enquiry,enquiry+essay,enquiry+essay+political discourses,enquiry+essay+political discourses+treatise,essay,essay+political discourses,essay+political discourses+treatise,political discourses,history
+Volume 1 (1762),,6.0,1.0,4.0,,12.0,1.0,,,,11.0,,,48.0,37.0,1.0,143.0,444.0
+Volume 2 (1762),,,,3.0,,5.0,,,,,5.0,,,39.0,38.0,,101.0,601.0
+Volume 3 (1759),,6.0,,6.0,1.0,18.0,2.0,1.0,,,9.0,,,68.0,43.0,,74.0,517.0
+Volume 4 (1759),,3.0,,5.0,,13.0,1.0,,,1.0,5.0,,,63.0,23.0,,59.0,379.0
+Volume 5 (1754),2.0,9.0,1.0,14.0,,39.0,2.0,,1.0,,34.0,1.0,,170.0,157.0,,224.0,555.0
+Volume 6 (1757),,1.0,1.0,9.0,,18.0,,,,,29.0,1.0,1.0,152.0,101.0,,177.0,550.0
