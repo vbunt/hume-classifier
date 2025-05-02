@@ -1,0 +1,2001 @@
+,chapter,paragraph,genres
+0,I,38,dissertation+essay
+1,I,39,dissertation+essay
+2,I,40,dissertation+essay
+3,I,41,dissertation+enquiry+essay
+4,I,42,dissertation+essay
+5,I,73,dissertation+essay
+6,I,74,dissertation+essay
+7,I,75,dissertation
+8,I,76,dissertation
+9,I,4,dissertation
+10,I,19,dissertation+essay+political discourses
+11,I,34,dissertation
+12,I,36,dissertation
+13,I,44,dissertation+essay
+14,I,51,dissertation
+15,I,37,essay
+16,I,70,essay+political discourses
+17,I,71,essay
+18,I,72,essay
+19,I,2,essay+political discourses
+20,I,3,essay
+21,I,35,essay+political discourses
+22,I,16,essay
+23,I,9,essay+political discourses
+24,I,58,essay
+25,I,0,essay
+26,I,5,political discourses
+27,I,6,political discourses
+28,I,7,political discourses
+29,I,8,political discourses
+30,I,10,political discourses
+31,I,11,political discourses
+32,I,12,political discourses
+33,I,13,political discourses
+34,I,14,political discourses
+35,I,15,political discourses
+36,I,17,political discourses
+37,I,18,political discourses
+38,I,20,political discourses
+39,I,22,political discourses
+40,I,23,political discourses
+41,I,24,political discourses
+42,I,25,political discourses
+43,I,30,political discourses
+44,I,31,political discourses
+45,I,32,political discourses
+46,I,1,political discourses
+47,I,69,political discourses
+48,I,67,political discourses
+49,I,28,political discourses
+50,XI,65,dissertation+essay
+51,XI,66,dissertation+enquiry+essay
+52,XI,23,enquiry+essay
+53,XI,64,essay
+54,XI,21,essay+political discourses
+55,XI,12,essay
+56,XI,17,essay
+57,XI,26,essay+political discourses
+58,XI,28,essay+political discourses
+59,XI,68,political discourses
+60,XI,69,political discourses
+61,XI,70,political discourses
+62,XI,71,political discourses
+63,XI,72,political discourses
+64,XI,73,political discourses
+65,XI,74,political discourses
+66,XI,75,political discourses
+67,XI,76,political discourses
+68,XI,77,political discourses
+69,XI,78,political discourses
+70,XI,79,political discourses
+71,XI,20,political discourses
+72,XI,53,political discourses
+73,XI,51,political discourses
+74,XI,55,political discourses
+75,II,51,dissertation+essay
+76,II,56,dissertation+essay
+77,II,78,dissertation+enquiry+essay
+78,II,26,enquiry+essay
+79,II,27,enquiry+essay
+80,II,36,enquiry+essay
+81,II,37,enquiry+essay
+82,II,66,enquiry+essay
+83,II,62,essay
+84,II,63,essay
+85,II,64,essay+political discourses
+86,II,65,essay+political discourses
+87,II,67,essay
+88,II,52,essay
+89,II,53,essay+political discourses
+90,II,54,essay
+91,II,55,essay
+92,II,35,essay
+93,II,38,essay+political discourses
+94,II,71,essay
+95,II,8,essay+political discourses
+96,II,0,essay+political discourses
+97,II,31,political discourses
+98,II,32,political discourses
+99,II,28,political discourses
+100,II,29,political discourses
+101,II,5,political discourses
+102,II,6,political discourses
+103,II,34,political discourses
+104,II,72,political discourses
+105,II,57,political discourses
+106,II,47,political discourses
+107,III,62,dissertation+essay
+108,III,32,enquiry+essay
+109,III,50,enquiry+essay
+110,III,26,essay
+111,III,27,essay
+112,III,37,essay
+113,III,10,essay+political discourses
+114,III,67,political discourses
+115,III,68,political discourses
+116,III,23,political discourses
+117,III,15,political discourses
+118,III,8,political discourses
+119,III,6,political discourses
+120,APPENDIX I,39,dissertation+enquiry
+121,APPENDIX I,38,enquiry+essay
+122,APPENDIX I,9,enquiry+essay
+123,APPENDIX I,0,essay+political discourses
+124,APPENDIX I,1,essay+political discourses
+125,APPENDIX I,2,essay
+126,APPENDIX I,8,essay+political discourses
+127,APPENDIX I,10,essay+political discourses
+128,APPENDIX I,25,essay
+129,APPENDIX I,26,essay+political discourses+treatise
+130,APPENDIX I,14,essay+political discourses
+131,APPENDIX I,35,essay+political discourses
+132,APPENDIX I,47,essay
+133,APPENDIX I,11,political discourses
+134,APPENDIX I,12,political discourses
+135,APPENDIX I,13,political discourses
+136,APPENDIX I,15,political discourses
+137,APPENDIX I,16,political discourses
+138,APPENDIX I,17,political discourses
+139,APPENDIX I,18,political discourses
+140,APPENDIX I,19,political discourses
+141,APPENDIX I,20,political discourses
+142,APPENDIX I,21,political discourses
+143,APPENDIX I,22,political discourses
+144,APPENDIX I,23,political discourses
+145,APPENDIX I,24,political discourses
+146,APPENDIX I,31,political discourses
+147,APPENDIX I,32,political discourses
+148,APPENDIX I,33,political discourses
+149,APPENDIX I,34,political discourses
+150,APPENDIX I,36,political discourses
+151,APPENDIX I,37,political discourses
+152,APPENDIX I,40,political discourses
+153,APPENDIX I,41,political discourses
+154,APPENDIX I,42,political discourses
+155,APPENDIX I,43,political discourses
+156,APPENDIX I,44,political discourses
+157,APPENDIX I,45,political discourses
+158,APPENDIX I,46,political discourses
+159,APPENDIX I,27,political discourses
+160,APPENDIX I,28,political discourses
+161,APPENDIX I,29,political discourses
+162,APPENDIX I,3,political discourses
+163,APPENDIX I,4,political discourses
+164,APPENDIX I,5,political discourses
+165,APPENDIX I,7,political discourses
+166,V,9,dissertation+essay
+167,V,19,enquiry+essay
+168,V,8,essay+political discourses
+169,V,10,essay
+170,V,11,essay
+171,V,18,essay
+172,V,13,essay+political discourses
+173,V,23,essay
+174,V,25,political discourses
+175,V,26,political discourses
+176,V,12,political discourses
+177,V,15,political discourses
+178,VIII ,49,dissertation+enquiry+essay
+179,VIII ,20,essay
+180,VIII ,21,essay
+181,VIII ,50,political discourses
+182,VIII ,51,political discourses
+183,VIII ,52,political discourses
+184,VIII ,3,political discourses
+185,VIII ,22,political discourses
+186,VIII ,25,political discourses
+187,IX,41,essay
+188,IX,42,essay+political discourses
+189,IX,47,essay
+190,IX,30,essay+political discourses
+191,IX,36,essay+political discourses
+192,IX,28,essay+political discourses
+193,IX,9,essay
+194,IX,29,political discourses
+195,IX,31,political discourses
+196,IX,32,political discourses
+197,IX,33,political discourses
+198,IX,54,political discourses
+199,IX,55,political discourses
+200,IX,49,political discourses
+201,IX,52,political discourses
+202,IX,40,political discourses
+203,VII,20,essay+political discourses
+204,VII,21,essay+political discourses
+205,VII,22,political discourses
+206,VII,10,political discourses
+207,VII,14,political discourses
+208,VI,0,essay
+209,VI,1,essay
+210,VI,19,essay
+211,VI,22,essay
+212,VI,34,essay
+213,VI,36,political discourses
+214,VI,38,political discourses
+215,X,33,essay
+216,X,34,essay
+217,X,38,essay+political discourses
+218,X,39,essay
+219,X,4,essay
+220,X,8,essay
+221,X,22,essay
+222,X,6,political discourses
+223,X,7,political discourses
+224,X,20,political discourses
+225,X,36,political discourses
+226,APPENDIX II,15,essay+political discourses
+227,APPENDIX II,16,essay+political discourses
+228,APPENDIX II,58,essay+political discourses
+229,APPENDIX II,59,essay+political discourses
+230,APPENDIX II,0,essay
+231,APPENDIX II,2,essay
+232,APPENDIX II,8,essay
+233,APPENDIX II,13,essay+political discourses
+234,APPENDIX II,20,essay+political discourses
+235,APPENDIX II,56,essay+political discourses
+236,APPENDIX II,12,political discourses
+237,APPENDIX II,14,political discourses
+238,APPENDIX II,57,political discourses
+239,APPENDIX II,34,political discourses
+240,APPENDIX II,35,political discourses
+241,APPENDIX II,36,political discourses
+242,APPENDIX II,37,political discourses
+243,APPENDIX II,25,political discourses
+244,APPENDIX II,26,political discourses
+245,APPENDIX II,27,political discourses
+246,APPENDIX II,28,political discourses
+247,APPENDIX II,21,political discourses
+248,APPENDIX II,22,political discourses
+249,APPENDIX II,23,political discourses
+250,APPENDIX II,52,political discourses
+251,APPENDIX II,53,political discourses
+252,APPENDIX II,54,political discourses
+253,APPENDIX II,30,political discourses
+254,APPENDIX II,40,political discourses
+255,APPENDIX II,43,political discourses
+256,IV,51,essay
+257,IV,38,essay+political discourses
+258,IV,46,political discourses
+259,IV,47,political discourses
+260,IV,48,political discourses
+261,IV,11,political discourses
+262,IV,22,political discourses
+263,IV,52,political discourses
+264,XX,47,dissertation+enquiry+essay
+265,XX,48,dissertation+essay
+266,XX,49,dissertation+enquiry+essay
+267,XX,23,dissertation+essay
+268,XX,32,dissertation+essay
+269,XX,3,enquiry+essay
+270,XX,24,enquiry+essay
+271,XX,45,enquiry+essay
+272,XX,22,essay
+273,XX,25,essay+political discourses
+274,XX,50,essay
+275,XX,37,essay
+276,XX,38,essay
+277,XX,39,essay
+278,XX,2,essay
+279,XX,28,essay+political discourses
+280,XX,29,essay
+281,XX,44,essay
+282,XX,67,essay
+283,XX,35,essay
+284,XX,27,political discourses
+285,XX,72,political discourses
+286,XII,88,dissertation+essay
+287,XII,98,essay+political discourses
+288,XII,99,essay+political discourses
+289,XII,100,essay+political discourses
+290,XII,87,essay+political discourses
+291,XII,0,essay+political discourses
+292,XII,4,essay+political discourses
+293,XII,17,essay
+294,XII,20,essay
+295,XII,90,essay+political discourses
+296,XII,101,political discourses
+297,XII,102,political discourses
+298,XII,103,political discourses
+299,XII,91,political discourses
+300,XII,92,political discourses
+301,XII,93,political discourses
+302,XII,95,political discourses
+303,XII,96,political discourses
+304,XII,14,political discourses
+305,XII,24,political discourses
+306,XII,30,political discourses
+307,XII,34,political discourses
+308,XII,37,political discourses
+309,XII,49,political discourses
+310,XII,57,political discourses
+311,XII,75,political discourses
+312,XVII,62,dissertation+essay
+313,XVII,66,dissertation+enquiry+essay
+314,XVII,61,essay+political discourses
+315,XVII,67,essay
+316,XVII,59,essay
+317,XVII,73,essay+political discourses
+318,XVII,8,essay+political discourses
+319,XVII,23,essay+political discourses
+320,XVII,72,political discourses
+321,XVII,74,political discourses
+322,XVII,75,political discourses
+323,XVII,7,political discourses
+324,XVII,9,political discourses
+325,XVII,24,political discourses
+326,XVII,40,political discourses
+327,XVII,65,political discourses
+328,XVII,4,political discourses
+329,XVII,69,political discourses
+330,XIX,37,enquiry+essay
+331,XIX,35,essay
+332,XIX,36,essay
+333,XIX,1,essay
+334,XIX,8,essay+political discourses
+335,XIX,40,essay+political discourses
+336,XIX,43,political discourses
+337,XIX,44,political discourses
+338,XIX,45,political discourses
+339,XIX,41,political discourses
+340,XIX,19,political discourses
+341,XXIII,31,enquiry+essay
+342,XXIII,34,essay+political discourses
+343,XXIII,35,essay+political discourses
+344,XXIII,36,essay+political discourses
+345,XXIII,37,essay+political discourses
+346,XXIII,38,essay+political discourses
+347,XXIII,29,essay+political discourses
+348,XXIII,30,essay
+349,XXIII,32,essay+political discourses
+350,XXIII,42,essay
+351,XXIII,2,essay
+352,XXIII,44,essay
+353,XXIII,33,political discourses
+354,XXIII,39,political discourses
+355,XXIII,40,political discourses
+356,XXIII,41,political discourses
+357,XXIII,43,political discourses
+358,XIV,35,essay
+359,XIV,36,essay+political discourses
+360,XIV,37,essay
+361,XIV,38,essay+political discourses
+362,XIV,2,essay
+363,XIV,18,essay
+364,XIV,43,political discourses
+365,XIV,44,political discourses
+366,XIV,45,political discourses
+367,XIV,46,political discourses
+368,XIV,47,political discourses
+369,XIV,39,political discourses
+370,XIV,40,political discourses
+371,XIV,41,political discourses
+372,XVI,46,essay
+373,XVI,47,essay
+374,XVI,15,essay
+375,XVI,29,essay+political discourses
+376,XVI,33,essay
+377,XVI,61,essay+political discourses
+378,XVI,77,essay+political discourses
+379,XVI,80,essay
+380,XVI,72,political discourses
+381,XVI,73,political discourses
+382,XVI,74,political discourses
+383,XVI,75,political discourses
+384,XVI,76,political discourses
+385,XVI,78,political discourses
+386,XVI,79,political discourses
+387,XVI,67,political discourses
+388,XVI,68,political discourses
+389,XVI,69,political discourses
+390,XVI,70,political discourses
+391,XVI,57,political discourses
+392,XVI,58,political discourses
+393,XVI,59,political discourses
+394,XVI,53,political discourses
+395,XVI,54,political discourses
+396,XVI,55,political discourses
+397,XVI,62,political discourses
+398,XVI,31,political discourses
+399,XVI,32,political discourses
+400,XVI,81,political discourses
+401,XVI,64,political discourses
+402,XVI,1,political discourses
+403,XVI,17,political discourses
+404,XVI,22,political discourses
+405,XVI,35,political discourses
+406,XV,68,essay
+407,XV,69,essay+political discourses
+408,XV,24,essay
+409,XV,29,essay+political discourses
+410,XV,50,essay
+411,XV,80,essay
+412,XV,88,essay
+413,XV,30,political discourses
+414,XV,2,political discourses
+415,XV,23,political discourses
+416,XV,45,political discourses
+417,XV,63,political discourses
+418,XVIII,18,essay+political discourses
+419,XVIII,21,essay+political discourses
+420,XVIII,24,essay+political discourses
+421,XVIII,27,essay+political discourses
+422,XVIII,28,political discourses
+423,XVIII,29,political discourses
+424,XVIII,30,political discourses
+425,XXII,37,essay
+426,XXII,6,essay+political discourses
+427,XXI,3,essay+political discourses
+428,XXI,0,essay
+429,XXI,41,political discourses
+430,XXI,42,political discourses
+431,XXI,37,political discourses
+432,XXI,38,political discourses
+433,XXI,16,political discourses
+434,XIII,10,essay+political discourses
+435,XIII,61,essay+political discourses
+436,XIII,65,essay
+437,XIII,82,essay
+438,XIII,85,essay+political discourses
+439,XIII,93,political discourses
+440,XIII,94,political discourses
+441,XIII,95,political discourses
+442,XIII,96,political discourses
+443,XIII,97,political discourses
+444,XIII,59,political discourses
+445,XIII,60,political discourses
+446,XIII,13,political discourses
+447,XIII,14,political discourses
+448,XIII,15,political discourses
+449,XIII,86,political discourses
+450,XIII,87,political discourses
+451,XIII,34,political discourses
+452,XIII,35,political discourses
+453,XIII,89,political discourses
+454,XIII,42,political discourses
+455,XXXVII,11,dissertation+enquiry+essay
+456,XXXVII,12,dissertation+enquiry+essay
+457,XXXVII,13,dissertation+enquiry+essay
+458,XXXVII,1,dissertation+essay
+459,XXXVII,2,dissertation
+460,XXXVII,3,dissertation+essay
+461,XXXVII,6,dissertation+enquiry+essay
+462,XXXVII,7,dissertation+essay
+463,XXXVII,4,enquiry+essay
+464,XXXVII,44,enquiry+essay
+465,XXXVII,8,essay
+466,XXXVII,9,essay+political discourses
+467,XXXVII,10,essay
+468,XXXVII,22,essay
+469,XXXVII,23,essay
+470,XXXVII,24,essay
+471,XXXVII,0,essay
+472,XXXVII,15,essay+political discourses
+473,XXXVII,16,essay
+474,XXXVII,43,essay
+475,XXXVII,27,essay
+476,XXXVII,46,political discourses
+477,XXXVII,47,political discourses
+478,XXXVII,48,political discourses
+479,XXXVII,49,political discourses
+480,XXXVII,50,political discourses
+481,XXXVII,51,political discourses
+482,XXXVII,17,political discourses
+483,XXXI,48,dissertation+essay
+484,XXXI,49,dissertation
+485,XXXI,50,dissertation+enquiry+essay
+486,XXXI,0,dissertation+essay
+487,XXXI,1,dissertation+essay
+488,XXXI,29,dissertation+essay+political discourses
+489,XXXI,30,dissertation+essay
+490,XXXI,63,dissertation+essay
+491,XXXI,64,dissertation+enquiry+essay
+492,XXXI,8,dissertation+essay
+493,XXXI,31,enquiry+essay
+494,XXXI,32,essay+political discourses
+495,XXXI,2,essay
+496,XXXI,3,essay
+497,XXXI,51,essay
+498,XXXI,52,essay+political discourses
+499,XXXI,62,essay+political discourses
+500,XXXI,7,essay
+501,XXXI,47,essay
+502,XXXI,35,essay
+503,XXXI,42,essay
+504,XXXI,70,essay
+505,XXXI,53,political discourses
+506,XXXI,26,political discourses
+507,XXXI,27,political discourses
+508,XXXI,67,political discourses
+509,XXXII,34,dissertation+essay
+510,XXXII,35,dissertation+essay
+511,XXXII,49,dissertation+essay
+512,XXXII,7,dissertation+enquiry+essay+political discourses
+513,XXXII,1,dissertation+essay
+514,XXXII,46,dissertation+essay
+515,XXXII,50,enquiry+essay
+516,XXXII,36,essay
+517,XXXII,45,essay
+518,XXXII,47,essay+political discourses
+519,XXXII,6,essay
+520,XXXII,13,essay+political discourses
+521,XXXII,16,essay+political discourses
+522,XXXII,8,political discourses
+523,XXXII,48,political discourses
+524,XXXIV,37,dissertation+political discourses
+525,XXXIV,38,dissertation
+526,XXXIV,12,dissertation
+527,XXXIV,57,dissertation
+528,XXXIV,6,dissertation+essay
+529,XXXIV,9,essay+political discourses
+530,XXXIV,10,essay+political discourses
+531,XXXIV,11,essay
+532,XXXIV,17,essay
+533,XXXIV,18,essay
+534,XXXIV,53,essay
+535,XXXIV,54,essay
+536,XXXIV,7,essay
+537,XXXIV,22,essay
+538,XXXIV,31,essay+political discourses
+539,XXXIV,36,essay+political discourses
+540,XXXIV,39,essay+political discourses
+541,XXXIV,56,essay
+542,XXXIV,32,political discourses
+543,XXXIV,33,political discourses
+544,XXXIV,13,political discourses
+545,XXXIV,51,political discourses
+546,XXXV,27,dissertation+essay
+547,XXXV,25,dissertation
+548,XXXV,26,essay
+549,XXXV,12,essay
+550,XXXV,13,essay
+551,XXXV,39,essay+political discourses
+552,XXXV,36,essay+political discourses
+553,XXXV,45,essay+political discourses
+554,XXXV,55,essay
+555,XXXV,0,political discourses
+556,XXXV,1,political discourses
+557,XXXV,2,political discourses
+558,XXXV,3,political discourses
+559,XXXV,40,political discourses
+560,XXXV,41,political discourses
+561,XXXV,37,political discourses
+562,XXXV,9,political discourses
+563,XXXV,24,political discourses
+564,XXXV,29,political discourses
+565,XXXV,34,political discourses
+566,XXXV,43,political discourses
+567,XXXV,47,political discourses
+568,XXVIII,35,dissertation+essay+political discourses
+569,XXVIII,27,essay
+570,XXVIII,12,essay
+571,XXVIII,9,essay+political discourses
+572,XXVIII,5,essay+political discourses
+573,XXVIII,1,essay
+574,XXVIII,36,political discourses
+575,XXVIII,11,political discourses
+576,XXVIII,3,political discourses
+577,XXIX,12,dissertation+essay
+578,XXIX,15,dissertation+essay
+579,XXIX,3,enquiry+essay
+580,XXIX,66,enquiry+essay
+581,XXIX,0,essay
+582,XXIX,1,essay+political discourses
+583,XXIX,2,essay+political discourses
+584,XXIX,4,essay
+585,XXIX,5,essay+political discourses
+586,XXIX,6,essay
+587,XXIX,7,essay+political discourses
+588,XXIX,8,essay
+589,XXIX,9,essay+political discourses
+590,XXIX,14,essay
+591,XXIX,16,essay+political discourses
+592,XXIX,17,essay
+593,XXIX,45,essay+political discourses
+594,XXIX,46,essay
+595,XXIX,60,essay
+596,XXIX,70,essay+political discourses
+597,XXIX,30,essay
+598,XXIX,10,political discourses
+599,XXIX,11,political discourses
+600,XXIX,36,political discourses
+601,XXIX,37,political discourses
+602,XXIX,21,political discourses
+603,XXIX,24,political discourses
+604,XXIX,33,political discourses
+605,XXIX,43,political discourses
+606,XXIX,57,political discourses
+607,XXIX,61,political discourses
+608,XXVII,48,enquiry+essay
+609,XXVII,9,essay
+610,XXVII,10,essay+political discourses
+611,XXVII,11,essay+political discourses
+612,XXVII,12,essay+political discourses
+613,XXVII,7,essay
+614,XXVII,16,essay
+615,XXVII,18,essay
+616,XXVII,30,essay
+617,XXVII,25,essay
+618,XXVII,8,political discourses
+619,XXVII,15,political discourses
+620,XXVII,38,political discourses
+621,XXX,32,enquiry+essay
+622,XXX,7,essay
+623,XXX,8,essay
+624,XXX,9,essay
+625,XXX,35,essay
+626,XXX,36,essay
+627,XXX,16,essay
+628,XXX,25,essay
+629,XXX,57,essay+political discourses
+630,XXX,58,political discourses
+631,XXX,29,political discourses
+632,XXXIII,46,enquiry+essay
+633,XXXIII,45,essay
+634,XXXIII,49,essay+political discourses
+635,XXXIII,32,essay+political discourses
+636,XXXIII,59,political discourses
+637,XXXIII,60,political discourses
+638,XXXIII,61,political discourses
+639,XXXIII,62,political discourses
+640,XXXIII,63,political discourses
+641,XXXIII,64,political discourses
+642,XXXIII,65,political discourses
+643,XXXIII,53,political discourses
+644,XXXIII,54,political discourses
+645,XXXIII,55,political discourses
+646,XXXIII,56,political discourses
+647,XXXIII,50,political discourses
+648,XXXIII,20,political discourses
+649,XXVI,30,essay
+650,XXVI,31,essay+political discourses
+651,XXVI,32,essay+political discourses
+652,XXVI,46,essay+political discourses
+653,XXVI,47,essay
+654,XXVI,44,essay+political discourses
+655,XXVI,36,essay+political discourses
+656,XXVI,37,political discourses
+657,XXVI,38,political discourses
+658,XXVI,39,political discourses
+659,XXVI,40,political discourses
+660,XXVI,41,political discourses
+661,XXVI,42,political discourses
+662,XXVI,43,political discourses
+663,XXVI,33,political discourses
+664,XXXVI,20,essay
+665,XXXVI,21,essay+political discourses
+666,XXXVI,8,essay
+667,XXXVI,12,essay+political discourses
+668,XXXVI,23,essay
+669,XXXVI,33,political discourses
+670,XXV,33,essay
+671,XXV,28,essay
+672,XXV,26,essay+political discourses
+673,XXV,17,essay+political discourses
+674,XXV,4,essay+political discourses
+675,XXV,2,essay+political discourses
+676,XXV,35,political discourses
+677,XXV,41,political discourses
+678,XXV,0,political discourses
+679,XXIV,30,essay
+680,XXIV,12,essay
+681,XXIV,6,essay
+682,XXIV,1,political discourses
+683,XXXVIII,47,dissertation+essay
+684,XXXVIII,48,dissertation+essay
+685,XXXVIII,49,dissertation+essay
+686,XXXVIII,22,dissertation+essay
+687,XXXVIII,23,dissertation+essay
+688,XXXVIII,25,dissertation+essay
+689,XXXVIII,26,dissertation
+690,XXXVIII,1,dissertation+enquiry+essay
+691,XXXVIII,16,dissertation+essay
+692,XXXVIII,51,dissertation+enquiry+essay
+693,XXXVIII,28,dissertation
+694,XXXVIII,46,essay
+695,XXXVIII,50,essay
+696,XXXVIII,52,essay
+697,XXXVIII,21,essay
+698,XXXVIII,6,essay
+699,XXXVIII,7,essay
+700,XXXVIII,0,essay
+701,XXXVIII,15,essay+political discourses
+702,XXXVIII,38,essay
+703,XXXVIII,10,essay+political discourses
+704,XXXVIII,55,political discourses
+705,XXXVIII,12,political discourses
+706,XL,2,dissertation
+707,XL,3,dissertation+essay+political discourses
+708,XL,29,dissertation+essay
+709,XL,0,dissertation+essay
+710,XL,5,dissertation+essay
+711,XL,82,essay+political discourses
+712,XL,83,essay
+713,XL,87,essay+political discourses
+714,XL,88,essay+political discourses
+715,XL,30,essay
+716,XL,37,essay
+717,XL,39,essay
+718,XL,27,essay
+719,XL,42,essay+political discourses
+720,XL,45,essay
+721,XL,50,essay+political discourses
+722,XL,53,essay+political discourses
+723,XL,58,essay
+724,XL,71,essay
+725,XL,35,essay
+726,XL,7,essay
+727,XL,52,political discourses
+728,XL,41,political discourses
+729,XL,6,political discourses
+730,XL,38,political discourses
+731,XL,55,political discourses
+732,XL,78,political discourses
+733,XL,84,political discourses
+734,XLIV,63,dissertation+enquiry+essay
+735,XLIV,53,dissertation+enquiry+essay
+736,XLIV,6,dissertation+essay
+737,XLIV,54,enquiry+essay
+738,XLIV,62,enquiry+essay
+739,XLIV,60,enquiry+essay
+740,XLIV,61,essay
+741,XLIV,64,essay
+742,XLIV,65,essay
+743,XLIV,66,essay
+744,XLIV,3,essay+political discourses
+745,XLIV,4,essay+political discourses
+746,XLIV,5,essay+political discourses
+747,XLIV,43,essay
+748,XLIV,0,essay+political discourses
+749,XLIV,22,essay
+750,XLIV,1,political discourses
+751,XLIV,2,political discourses
+752,XLIV,7,political discourses
+753,XLIV,8,political discourses
+754,XLIV,51,political discourses
+755,XLIV,55,political discourses
+756,XLII,4,dissertation+essay
+757,XLII,45,enquiry+essay
+758,XLII,46,enquiry+essay
+759,XLII,21,enquiry
+760,XLII,47,essay
+761,XLII,48,essay
+762,XLII,61,essay
+763,XLII,62,essay
+764,XLII,63,essay
+765,XLII,14,essay
+766,XLII,15,essay
+767,XLII,0,essay
+768,XLII,1,essay
+769,XLII,5,essay
+770,XLII,36,essay
+771,XLII,37,essay
+772,XLII,39,essay
+773,XLII,40,essay
+774,XLII,67,essay+political discourses
+775,XLII,71,essay+political discourses
+776,XLII,75,essay
+777,XLII,55,essay
+778,XLII,42,essay
+779,XLII,72,political discourses
+780,XLII,65,political discourses
+781,XLII,53,political discourses
+782,XXXIX,38,dissertation+enquiry+essay
+783,XXXIX,1,essay
+784,XXXIX,2,essay
+785,XXXIX,3,essay
+786,XXXIX,4,essay
+787,XXXIX,27,essay
+788,XXXIX,28,essay
+789,XXXIX,6,essay+political discourses
+790,XXXIX,24,essay
+791,XXXIX,63,essay
+792,XXXIX,35,essay
+793,XXXIX,0,political discourses
+794,XXXIX,15,political discourses
+795,XXXIX,42,political discourses
+796,APPENDIX III,67,dissertation+essay
+797,APPENDIX III,19,essay+political discourses
+798,APPENDIX III,20,essay
+799,APPENDIX III,27,essay
+800,APPENDIX III,28,essay
+801,APPENDIX III,7,essay+political discourses
+802,APPENDIX III,22,essay+political discourses
+803,APPENDIX III,25,essay
+804,APPENDIX III,31,essay
+805,APPENDIX III,62,essay
+806,APPENDIX III,65,essay
+807,APPENDIX III,13,political discourses
+808,APPENDIX III,14,political discourses
+809,APPENDIX III,15,political discourses
+810,APPENDIX III,16,political discourses
+811,APPENDIX III,17,political discourses
+812,APPENDIX III,18,political discourses
+813,APPENDIX III,53,political discourses
+814,APPENDIX III,54,political discourses
+815,APPENDIX III,55,political discourses
+816,APPENDIX III,56,political discourses
+817,APPENDIX III,57,political discourses
+818,APPENDIX III,58,political discourses
+819,APPENDIX III,47,political discourses
+820,APPENDIX III,48,political discourses
+821,APPENDIX III,49,political discourses
+822,APPENDIX III,50,political discourses
+823,APPENDIX III,51,political discourses
+824,APPENDIX III,9,political discourses
+825,APPENDIX III,10,political discourses
+826,APPENDIX III,11,political discourses
+827,APPENDIX III,40,political discourses
+828,APPENDIX III,41,political discourses
+829,APPENDIX III,42,political discourses
+830,APPENDIX III,21,political discourses
+831,APPENDIX III,44,political discourses
+832,APPENDIX III,45,political discourses
+833,APPENDIX III,60,political discourses
+834,APPENDIX III,61,political discourses
+835,APPENDIX III,2,political discourses
+836,APPENDIX III,3,political discourses
+837,APPENDIX III,5,political discourses
+838,APPENDIX III,24,political discourses
+839,APPENDIX III,29,political discourses
+840,APPENDIX III,32,political discourses
+841,APPENDIX III,37,political discourses
+842,APPENDIX III,63,political discourses
+843,XLI,29,essay
+844,XLI,30,essay+political discourses
+845,XLI,32,essay
+846,XLI,33,essay+political discourses
+847,XLI,6,essay
+848,XLI,7,essay
+849,XLI,0,essay+political discourses
+850,XLI,27,essay+political discourses
+851,XLI,38,essay+political discourses
+852,XLIII,17,essay
+853,XLIII,40,essay
+854,XLIII,34,political discourses
+855,XLIII,30,political discourses
+856,LV,89,dialogues+enquiry+essay
+857,LV,92,dialogues+enquiry+essay
+858,LV,27,dissertation+enquiry+essay
+859,LV,28,dissertation+enquiry+essay
+860,LV,71,dissertation+essay+political discourses
+861,LV,78,dissertation+enquiry+essay
+862,LV,90,enquiry+essay
+863,LV,91,enquiry+essay
+864,LV,23,enquiry+essay
+865,LV,24,enquiry+essay
+866,LV,94,enquiry+essay
+867,LV,22,essay+political discourses
+868,LV,25,essay+political discourses
+869,LV,26,essay
+870,LV,93,essay
+871,LV,95,essay
+872,LV,79,essay
+873,LV,80,essay
+874,LV,39,essay
+875,LV,40,essay
+876,LV,30,essay+political discourses
+877,LV,31,essay+political discourses
+878,LV,63,essay+political discourses
+879,LV,64,essay
+880,LV,12,essay+political discourses
+881,LV,13,essay+political discourses
+882,LV,66,essay
+883,LV,67,essay+political discourses
+884,LV,70,essay+political discourses
+885,LV,99,essay
+886,LV,73,essay
+887,LV,101,essay+political discourses
+888,LV,52,essay+political discourses
+889,LV,60,essay
+890,LV,47,essay
+891,LV,17,essay+political discourses
+892,LV,7,essay
+893,LV,3,essay
+894,LV,0,essay
+895,LV,11,political discourses
+896,LV,14,political discourses
+897,LV,32,political discourses
+898,LV,72,political discourses
+899,LV,105,political discourses
+900,LV,106,political discourses
+901,LV,76,political discourses
+902,LV,77,political discourses
+903,LV,53,political discourses
+904,LV,68,political discourses
+905,LV,46,political discourses
+906,LV,44,political discourses
+907,LV,84,political discourses
+908,LII,11,dissertation+essay
+909,LII,12,dissertation+essay
+910,LII,13,dissertation+enquiry+essay
+911,LII,14,dissertation+essay
+912,LII,15,dissertation+enquiry+essay
+913,LII,16,dissertation+enquiry+essay
+914,LII,17,dissertation+enquiry
+915,LII,18,dissertation+essay
+916,LII,19,dissertation+enquiry+essay
+917,LII,20,dissertation+essay
+918,LII,21,dissertation+essay+political discourses
+919,LII,22,dissertation+enquiry+essay
+920,LII,23,dissertation
+921,LII,24,dissertation
+922,LII,73,dissertation+enquiry+essay
+923,LII,66,dissertation+essay
+924,LII,46,dissertation+essay
+925,LII,37,dissertation+essay
+926,LII,76,dissertation+essay
+927,LII,10,essay
+928,LII,44,essay+political discourses
+929,LII,45,essay
+930,LII,6,essay
+931,LII,7,essay
+932,LII,8,essay
+933,LII,75,essay+political discourses
+934,LII,77,essay
+935,LII,65,essay+political discourses
+936,LII,0,essay+political discourses
+937,LII,1,essay+political discourses
+938,LII,82,essay+political discourses
+939,LII,79,essay+political discourses
+940,LII,69,essay+political discourses
+941,LII,57,essay+political discourses
+942,LII,53,essay
+943,LII,29,essay
+944,LII,60,political discourses
+945,LII,61,political discourses
+946,LII,62,political discourses
+947,LII,63,political discourses
+948,LII,64,political discourses
+949,LII,31,political discourses
+950,LII,32,political discourses
+951,LII,33,political discourses
+952,LII,34,political discourses
+953,LII,35,political discourses
+954,LII,80,political discourses
+955,LII,81,political discourses
+956,LII,38,political discourses
+957,LII,39,political discourses
+958,LII,40,political discourses
+959,LII,41,political discourses
+960,LII,43,political discourses
+961,LII,70,political discourses
+962,LII,67,political discourses
+963,LII,55,political discourses
+964,LII,52,political discourses
+965,LII,49,political discourses
+966,LII,47,political discourses
+967,LII,27,political discourses
+968,LII,25,political discourses
+969,LII,5,political discourses
+970,XLVI,12,dissertation+essay
+971,XLVI,13,dissertation+essay
+972,XLVI,14,dissertation+essay
+973,XLVI,15,dissertation+essay
+974,XLVI,16,dissertation+essay
+975,XLVI,2,dissertation
+976,XLVI,0,enquiry+essay
+977,XLVI,64,enquiry+essay
+978,XLVI,9,enquiry+essay
+979,XLVI,11,essay
+980,XLVI,42,essay+political discourses
+981,XLVI,43,essay
+982,XLVI,44,essay
+983,XLVI,45,essay+political discourses
+984,XLVI,46,essay+political discourses
+985,XLVI,49,essay
+986,XLVI,50,essay+political discourses
+987,XLVI,51,essay+political discourses
+988,XLVI,52,essay
+989,XLVI,30,essay+political discourses
+990,XLVI,31,essay+political discourses
+991,XLVI,20,essay+political discourses
+992,XLVI,21,essay+political discourses
+993,XLVI,5,essay+political discourses
+994,XLVI,6,essay
+995,XLVI,39,essay
+996,XLVI,26,essay+political discourses
+997,XLVI,3,essay+political discourses
+998,XLVI,54,political discourses
+999,XLVI,55,political discourses
+1000,XLVI,56,political discourses
+1001,XLVI,57,political discourses
+1002,XLVI,58,political discourses
+1003,XLVI,59,political discourses
+1004,XLVI,60,political discourses
+1005,XLVI,61,political discourses
+1006,XLVI,62,political discourses
+1007,XLVI,63,political discourses
+1008,XLVI,47,political discourses
+1009,XLVI,48,political discourses
+1010,XLVI,29,political discourses
+1011,XLVI,24,political discourses
+1012,XLVI,25,political discourses
+1013,XLVI,19,political discourses
+1014,XLVI,65,political discourses
+1015,XLVI,34,political discourses
+1016,LVII,26,dissertation+essay
+1017,LVII,27,dissertation+essay
+1018,LVII,28,dissertation
+1019,LVII,29,dissertation
+1020,LVII,61,dissertation
+1021,LVII,41,enquiry+essay
+1022,LVII,42,enquiry+essay
+1023,LVII,58,enquiry+essay
+1024,LVII,54,essay+political discourses
+1025,LVII,55,essay
+1026,LVII,56,essay+political discourses
+1027,LVII,57,essay
+1028,LVII,59,essay
+1029,LVII,60,essay
+1030,LVII,25,essay+political discourses
+1031,LVII,36,essay
+1032,LVII,37,essay+political discourses
+1033,LVII,38,essay+political discourses
+1034,LVII,47,essay+political discourses
+1035,LVII,48,essay+political discourses
+1036,LVII,49,essay+political discourses
+1037,LVII,5,essay
+1038,LVII,6,essay+political discourses
+1039,LVII,51,essay+political discourses
+1040,LVII,30,essay+political discourses
+1041,LVII,16,essay
+1042,LVII,1,essay+political discourses
+1043,LVII,50,political discourses
+1044,LVII,52,political discourses
+1045,LVII,39,political discourses
+1046,LVII,3,political discourses
+1047,LVII,4,political discourses
+1048,LVII,10,political discourses
+1049,LVII,23,political discourses
+1050,A. TO THE REIGN OF JAMES I,58,dissertation+essay
+1051,A. TO THE REIGN OF JAMES I,59,dissertation+essay
+1052,A. TO THE REIGN OF JAMES I,60,dissertation+essay
+1053,A. TO THE REIGN OF JAMES I,62,dissertation+essay
+1054,A. TO THE REIGN OF JAMES I,56,dissertation+essay
+1055,A. TO THE REIGN OF JAMES I,13,dissertation+essay
+1056,A. TO THE REIGN OF JAMES I,16,enquiry+essay
+1057,A. TO THE REIGN OF JAMES I,63,enquiry+essay
+1058,A. TO THE REIGN OF JAMES I,69,enquiry+essay
+1059,A. TO THE REIGN OF JAMES I,55,essay+political discourses
+1060,A. TO THE REIGN OF JAMES I,57,essay
+1061,A. TO THE REIGN OF JAMES I,61,essay
+1062,A. TO THE REIGN OF JAMES I,64,essay
+1063,A. TO THE REIGN OF JAMES I,65,essay
+1064,A. TO THE REIGN OF JAMES I,66,essay+political discourses
+1065,A. TO THE REIGN OF JAMES I,67,essay+political discourses
+1066,A. TO THE REIGN OF JAMES I,68,essay+political discourses
+1067,A. TO THE REIGN OF JAMES I,70,essay
+1068,A. TO THE REIGN OF JAMES I,71,essay
+1069,A. TO THE REIGN OF JAMES I,3,essay+political discourses
+1070,A. TO THE REIGN OF JAMES I,4,essay
+1071,A. TO THE REIGN OF JAMES I,5,essay
+1072,A. TO THE REIGN OF JAMES I,6,essay+political discourses
+1073,A. TO THE REIGN OF JAMES I,7,essay+political discourses
+1074,A. TO THE REIGN OF JAMES I,18,essay+political discourses
+1075,A. TO THE REIGN OF JAMES I,19,essay
+1076,A. TO THE REIGN OF JAMES I,20,essay+political discourses
+1077,A. TO THE REIGN OF JAMES I,21,essay+political discourses
+1078,A. TO THE REIGN OF JAMES I,14,essay
+1079,A. TO THE REIGN OF JAMES I,15,essay
+1080,A. TO THE REIGN OF JAMES I,9,essay+political discourses
+1081,A. TO THE REIGN OF JAMES I,10,essay+political discourses
+1082,A. TO THE REIGN OF JAMES I,11,essay
+1083,A. TO THE REIGN OF JAMES I,51,essay+political discourses
+1084,A. TO THE REIGN OF JAMES I,1,essay
+1085,A. TO THE REIGN OF JAMES I,22,political discourses
+1086,A. TO THE REIGN OF JAMES I,23,political discourses
+1087,A. TO THE REIGN OF JAMES I,24,political discourses
+1088,A. TO THE REIGN OF JAMES I,53,political discourses
+1089,A. TO THE REIGN OF JAMES I,54,political discourses
+1090,A. TO THE REIGN OF JAMES I,43,political discourses
+1091,A. TO THE REIGN OF JAMES I,44,political discourses
+1092,A. TO THE REIGN OF JAMES I,45,political discourses
+1093,A. TO THE REIGN OF JAMES I,39,political discourses
+1094,A. TO THE REIGN OF JAMES I,40,political discourses
+1095,A. TO THE REIGN OF JAMES I,41,political discourses
+1096,A. TO THE REIGN OF JAMES I,35,political discourses
+1097,A. TO THE REIGN OF JAMES I,36,political discourses
+1098,A. TO THE REIGN OF JAMES I,37,political discourses
+1099,A. TO THE REIGN OF JAMES I,31,political discourses
+1100,A. TO THE REIGN OF JAMES I,32,political discourses
+1101,A. TO THE REIGN OF JAMES I,33,political discourses
+1102,A. TO THE REIGN OF JAMES I,26,political discourses
+1103,A. TO THE REIGN OF JAMES I,27,political discourses
+1104,A. TO THE REIGN OF JAMES I,28,political discourses
+1105,A. TO THE REIGN OF JAMES I,17,political discourses
+1106,A. TO THE REIGN OF JAMES I,47,political discourses
+1107,A. TO THE REIGN OF JAMES I,48,political discourses
+1108,A. TO THE REIGN OF JAMES I,50,political discourses
+1109,A. TO THE REIGN OF JAMES I,12,political discourses
+1110,XLV,14,dissertation
+1111,XLV,15,dissertation+essay
+1112,XLV,28,dissertation+essay
+1113,XLV,17,dissertation+essay
+1114,XLV,16,essay+political discourses
+1115,XLV,18,essay
+1116,XLV,19,essay
+1117,XLV,20,essay
+1118,XLV,23,essay
+1119,XLV,24,essay
+1120,XLV,25,essay
+1121,XLV,26,essay
+1122,XLV,29,essay+political discourses
+1123,XLV,40,essay
+1124,XLV,41,essay
+1125,XLV,1,essay
+1126,XLV,43,essay+political discourses
+1127,XLV,37,essay+political discourses
+1128,XLV,35,essay+political discourses
+1129,XLV,12,essay
+1130,XLV,7,essay
+1131,XLV,3,essay
+1132,XLV,38,political discourses
+1133,XLV,39,political discourses
+1134,XLV,42,political discourses
+1135,XLV,44,political discourses
+1136,XLV,32,political discourses
+1137,XLV,27,political discourses
+1138,XLV,21,political discourses
+1139,LIX,144,dissertation+essay
+1140,LIX,145,dissertation+essay
+1141,LIX,5,dissertation+essay
+1142,LIX,28,dissertation+enquiry+essay
+1143,LIX,89,dissertation+essay
+1144,LIX,125,dissertation+enquiry+essay
+1145,LIX,130,dissertation+essay
+1146,LIX,132,dissertation+enquiry+essay
+1147,LIX,134,enquiry+essay
+1148,LIX,135,enquiry+essay
+1149,LIX,121,enquiry+essay
+1150,LIX,133,essay
+1151,LIX,136,essay
+1152,LIX,4,essay
+1153,LIX,6,essay
+1154,LIX,26,essay
+1155,LIX,27,essay+political discourses
+1156,LIX,106,essay+political discourses
+1157,LIX,107,essay+political discourses
+1158,LIX,108,essay+political discourses
+1159,LIX,110,essay+political discourses
+1160,LIX,111,essay+political discourses
+1161,LIX,112,essay
+1162,LIX,122,essay
+1163,LIX,53,essay
+1164,LIX,54,essay
+1165,LIX,32,essay+political discourses
+1166,LIX,33,essay
+1167,LIX,127,essay
+1168,LIX,128,essay
+1169,LIX,0,essay+political discourses
+1170,LIX,1,essay+political discourses
+1171,LIX,90,essay
+1172,LIX,119,essay
+1173,LIX,117,essay+political discourses
+1174,LIX,114,essay
+1175,LIX,139,essay+political discourses
+1176,LIX,101,essay+political discourses
+1177,LIX,94,essay
+1178,LIX,41,essay
+1179,LIX,17,essay
+1180,LIX,21,essay+political discourses
+1181,LIX,38,essay
+1182,LIX,80,essay
+1183,LIX,51,essay+political discourses
+1184,LIX,59,essay
+1185,LIX,64,essay
+1186,LIX,45,political discourses
+1187,LIX,46,political discourses
+1188,LIX,47,political discourses
+1189,LIX,48,political discourses
+1190,LIX,49,political discourses
+1191,LIX,50,political discourses
+1192,LIX,19,political discourses
+1193,LIX,20,political discourses
+1194,LIX,22,political discourses
+1195,LIX,23,political discourses
+1196,LIX,24,political discourses
+1197,LIX,25,political discourses
+1198,LIX,10,political discourses
+1199,LIX,11,political discourses
+1200,LIX,12,political discourses
+1201,LIX,13,political discourses
+1202,LIX,14,political discourses
+1203,LIX,34,political discourses
+1204,LIX,35,political discourses
+1205,LIX,36,political discourses
+1206,LIX,37,political discourses
+1207,LIX,2,political discourses
+1208,LIX,3,political discourses
+1209,LIX,105,political discourses
+1210,LIX,100,political discourses
+1211,LIX,102,political discourses
+1212,LIX,30,political discourses
+1213,LIX,31,political discourses
+1214,LIX,83,political discourses
+1215,LIX,84,political discourses
+1216,LIX,85,political discourses
+1217,LIX,138,political discourses
+1218,LIX,115,political discourses
+1219,LIX,95,political discourses
+1220,LIX,77,political discourses
+1221,LIX,40,political discourses
+1222,LIX,66,political discourses
+1223,LIX,7,political discourses
+1224,XLVII,37,dissertation
+1225,XLVII,38,dissertation+treatise
+1226,XLVII,40,dissertation+essay
+1227,XLVII,50,dissertation
+1228,XLVII,19,dissertation+essay
+1229,XLVII,31,essay+political discourses
+1230,XLVII,32,essay+political discourses
+1231,XLVII,33,essay
+1232,XLVII,34,essay+political discourses
+1233,XLVII,35,essay
+1234,XLVII,39,essay+political discourses
+1235,XLVII,41,essay+political discourses
+1236,XLVII,42,essay+political discourses
+1237,XLVII,4,essay
+1238,XLVII,5,essay
+1239,XLVII,6,essay
+1240,XLVII,8,essay
+1241,XLVII,9,essay
+1242,XLVII,0,essay
+1243,XLVII,1,essay
+1244,XLVII,49,essay
+1245,XLVII,13,essay+political discourses
+1246,XLVII,27,political discourses
+1247,LVIII ,49,dissertation+essay
+1248,LVIII ,14,dissertation+essay
+1249,LVIII ,38,essay+political discourses
+1250,LVIII ,39,essay
+1251,LVIII ,40,essay+political discourses
+1252,LVIII ,41,essay
+1253,LVIII ,42,essay
+1254,LVIII ,43,essay
+1255,LVIII ,50,essay
+1256,LVIII ,51,essay
+1257,LVIII ,13,essay+political discourses
+1258,LVIII ,56,essay+political discourses
+1259,LVIII ,62,essay+political discourses
+1260,LVIII ,21,essay
+1261,LVIII ,37,political discourses
+1262,LVIII ,61,political discourses
+1263,LVIII ,7,political discourses
+1264,LVIII ,22,political discourses
+1265,LVIII ,53,political discourses
+1266,LVI,64,dissertation+enquiry+essay
+1267,LVI,50,enquiry+essay
+1268,LVI,43,enquiry+essay
+1269,LVI,18,enquiry+essay
+1270,LVI,0,essay+political discourses
+1271,LVI,1,essay
+1272,LVI,2,essay+political discourses
+1273,LVI,3,essay
+1274,LVI,4,essay
+1275,LVI,17,essay
+1276,LVI,19,essay
+1277,LVI,8,essay+political discourses
+1278,LVI,9,essay+political discourses
+1279,LVI,68,essay
+1280,LVI,69,essay+political discourses
+1281,LVI,33,essay+political discourses
+1282,LVI,57,essay
+1283,LVI,5,political discourses
+1284,LVI,6,political discourses
+1285,LVI,32,political discourses
+1286,LVI,78,political discourses
+1287,LVI,61,political discourses
+1288,LVI,58,political discourses
+1289,LVI,45,political discourses
+1290,LVI,30,political discourses
+1291,LVI,28,political discourses
+1292,LIII,27,dissertation+essay
+1293,LIII,20,dissertation+essay
+1294,LIII,12,dissertation+essay
+1295,LIII,9,dissertation+essay
+1296,LIII,6,essay+political discourses
+1297,LIII,7,essay+political discourses
+1298,LIII,8,essay+political discourses
+1299,LIII,2,essay
+1300,LIII,3,essay
+1301,LIII,4,essay+political discourses
+1302,LIII,11,essay+political discourses
+1303,LIII,13,essay
+1304,LIII,15,essay
+1305,LIII,16,essay
+1306,LIII,28,essay
+1307,LIII,63,essay+political discourses
+1308,LIII,64,essay
+1309,LIII,52,essay+political discourses
+1310,LIII,41,essay+political discourses
+1311,LIII,32,essay+political discourses
+1312,LIII,43,essay
+1313,LIII,50,political discourses
+1314,LIII,51,political discourses
+1315,LIII,53,political discourses
+1316,LIII,47,political discourses
+1317,LIII,48,political discourses
+1318,LIII,0,political discourses
+1319,LIII,38,political discourses
+1320,LIII,26,political discourses
+1321,LIII,21,political discourses
+1322,LI,64,dissertation+enquiry+essay
+1323,LI,44,enquiry+essay
+1324,LI,45,enquiry+essay
+1325,LI,42,enquiry+essay
+1326,LI,3,essay+political discourses
+1327,LI,4,essay
+1328,LI,5,essay+political discourses
+1329,LI,6,essay
+1330,LI,7,essay+political discourses
+1331,LI,8,essay+political discourses
+1332,LI,9,essay+political discourses
+1333,LI,10,essay+political discourses
+1334,LI,11,essay
+1335,LI,12,essay+political discourses
+1336,LI,13,essay
+1337,LI,41,essay
+1338,LI,43,essay
+1339,LI,17,essay+political discourses
+1340,LI,18,essay+political discourses
+1341,LI,19,essay
+1342,LI,62,essay
+1343,LI,63,essay
+1344,LI,59,essay
+1345,LI,60,essay
+1346,LI,29,essay
+1347,LI,30,essay
+1348,LI,23,essay
+1349,LI,24,essay
+1350,LI,15,essay+political discourses
+1351,LI,27,essay
+1352,LI,32,essay+political discourses
+1353,LI,48,essay+political discourses
+1354,LI,16,political discourses
+1355,LI,54,political discourses
+1356,LI,55,political discourses
+1357,LI,1,political discourses
+1358,LI,21,political discourses
+1359,LI,50,political discourses
+1360,LI,36,political discourses
+1361,L,16,dissertation+essay
+1362,L,56,essay+political discourses
+1363,L,57,essay
+1364,L,58,essay+political discourses
+1365,L,59,essay
+1366,L,60,essay
+1367,L,38,essay+political discourses
+1368,L,39,essay+political discourses
+1369,L,7,essay
+1370,L,8,essay+political discourses
+1371,L,52,essay+political discourses
+1372,L,44,essay+political discourses
+1373,L,33,essay+political discourses
+1374,L,5,essay+political discourses
+1375,L,3,essay+political discourses
+1376,L,40,political discourses
+1377,L,41,political discourses
+1378,L,42,political discourses
+1379,L,43,political discourses
+1380,L,50,political discourses
+1381,L,51,political discourses
+1382,L,53,political discourses
+1383,L,54,political discourses
+1384,L,1,political discourses
+1385,L,2,political discourses
+1386,L,6,political discourses
+1387,L,47,political discourses
+1388,LIV,82,enquiry+essay
+1389,LIV,83,enquiry+essay
+1390,LIV,78,enquiry+essay
+1391,LIV,102,enquiry+essay
+1392,LIV,76,enquiry+essay
+1393,LIV,23,enquiry+essay
+1394,LIV,45,enquiry+essay
+1395,LIV,64,enquiry+essay
+1396,LIV,73,enquiry+essay
+1397,LIV,74,essay+political discourses
+1398,LIV,75,essay
+1399,LIV,77,essay
+1400,LIV,79,essay+political discourses
+1401,LIV,80,essay+political discourses
+1402,LIV,81,essay
+1403,LIV,22,essay
+1404,LIV,24,essay
+1405,LIV,25,essay+political discourses
+1406,LIV,26,essay
+1407,LIV,39,essay+political discourses
+1408,LIV,40,essay+political discourses
+1409,LIV,41,essay+political discourses
+1410,LIV,42,essay
+1411,LIV,43,essay+political discourses
+1412,LIV,13,essay
+1413,LIV,14,essay+political discourses
+1414,LIV,15,essay+political discourses
+1415,LIV,1,essay
+1416,LIV,2,essay
+1417,LIV,91,essay+political discourses
+1418,LIV,92,essay+political discourses
+1419,LIV,65,essay+political discourses
+1420,LIV,47,essay
+1421,LIV,48,essay
+1422,LIV,33,essay
+1423,LIV,34,essay
+1424,LIV,30,essay+political discourses
+1425,LIV,31,essay+political discourses
+1426,LIV,109,essay+political discourses
+1427,LIV,96,essay+political discourses
+1428,LIV,89,essay+political discourses
+1429,LIV,69,essay+political discourses
+1430,LIV,58,essay+political discourses
+1431,LIV,50,essay
+1432,LIV,20,essay+political discourses
+1433,LIV,18,essay+political discourses
+1434,LIV,5,essay+political discourses
+1435,LIV,113,political discourses
+1436,LIV,114,political discourses
+1437,LIV,115,political discourses
+1438,LIV,116,political discourses
+1439,LIV,117,political discourses
+1440,LIV,118,political discourses
+1441,LIV,119,political discourses
+1442,LIV,120,political discourses
+1443,LIV,121,political discourses
+1444,LIV,122,political discourses
+1445,LIV,16,political discourses
+1446,LIV,17,political discourses
+1447,LIV,19,political discourses
+1448,LIV,28,political discourses
+1449,LIV,29,political discourses
+1450,LIV,32,political discourses
+1451,LIV,38,political discourses
+1452,LIV,67,political discourses
+1453,LIV,68,political discourses
+1454,LIV,70,political discourses
+1455,LIV,87,political discourses
+1456,LIV,88,political discourses
+1457,LIV,107,political discourses
+1458,LIV,108,political discourses
+1459,LIV,93,political discourses
+1460,LIV,44,political discourses
+1461,LIV,95,political discourses
+1462,LIV,111,political discourses
+1463,LIV,63,political discourses
+1464,LIV,53,political discourses
+1465,LIV,3,political discourses
+1466,XLVIII,9,enquiry+essay
+1467,XLVIII,28,enquiry+essay
+1468,XLVIII,12,essay
+1469,XLVIII,13,essay
+1470,XLVIII,14,essay+political discourses
+1471,XLVIII,15,essay+political discourses
+1472,XLVIII,33,essay
+1473,XLVIII,34,essay
+1474,XLVIII,35,essay+political discourses
+1475,XLVIII,40,essay+political discourses
+1476,XLVIII,41,essay
+1477,XLVIII,4,essay+political discourses
+1478,XLVIII,22,essay+political discourses
+1479,XLVIII,18,essay
+1480,XLVIII,36,political discourses
+1481,XLVIII,37,political discourses
+1482,XLVIII,5,political discourses
+1483,XLVIII,6,political discourses
+1484,XLVIII,39,political discourses
+1485,XLVIII,24,political discourses
+1486,XLVIII,25,political discourses
+1487,XLVIII,2,political discourses
+1488,XLIX,16,enquiry+essay+political discourses
+1489,XLIX,51,essay
+1490,XLIX,52,essay
+1491,XLIX,53,essay+political discourses
+1492,XLIX,7,essay
+1493,XLIX,8,essay
+1494,XLIX,10,essay
+1495,XLIX,11,essay
+1496,XLIX,21,essay
+1497,XLIX,22,essay
+1498,XLIX,38,essay
+1499,XLIX,39,essay
+1500,XLIX,27,essay+political discourses
+1501,XLIX,28,essay
+1502,XLIX,55,political discourses
+1503,XLIX,56,political discourses
+1504,XLIX,57,political discourses
+1505,XLIX,58,political discourses
+1506,XLIX,2,political discourses
+1507,XLIX,47,political discourses
+1508,XLIX,43,political discourses
+1509,XLIX,19,political discourses
+1510,LXII,94,dissertation+essay
+1511,LXII,95,dissertation+essay
+1512,LXII,96,dissertation+essay
+1513,LXII,97,dissertation+essay
+1514,LXII,76,dissertation+enquiry+essay
+1515,LXII,77,dissertation+essay
+1516,LXII,78,dissertation+enquiry
+1517,LXII,79,dissertation+essay
+1518,LXII,71,dissertation+essay
+1519,LXII,72,dissertation+enquiry+essay
+1520,LXII,99,dissertation+enquiry+essay
+1521,LXII,100,dissertation+essay
+1522,LXII,6,dissertation+enquiry+essay
+1523,LXII,74,dissertation+essay
+1524,LXII,105,dissertation+essay
+1525,LXII,73,enquiry+essay
+1526,LXII,103,enquiry+essay
+1527,LXII,101,enquiry+essay
+1528,LXII,35,enquiry+essay
+1529,LXII,0,enquiry+essay
+1530,LXII,92,essay+political discourses
+1531,LXII,93,essay+political discourses
+1532,LXII,98,essay+political discourses
+1533,LXII,102,essay
+1534,LXII,104,essay
+1535,LXII,106,essay
+1536,LXII,107,essay
+1537,LXII,67,essay+political discourses
+1538,LXII,68,essay
+1539,LXII,69,essay
+1540,LXII,70,essay+political discourses
+1541,LXII,75,essay+political discourses
+1542,LXII,9,essay
+1543,LXII,10,essay
+1544,LXII,11,essay+political discourses
+1545,LXII,12,essay+political discourses
+1546,LXII,24,essay
+1547,LXII,25,essay
+1548,LXII,46,essay
+1549,LXII,47,essay+political discourses
+1550,LXII,60,essay+political discourses
+1551,LXII,61,essay+political discourses
+1552,LXII,57,essay+political discourses
+1553,LXII,52,essay
+1554,LXII,42,essay
+1555,LXII,40,essay+political discourses
+1556,LXII,38,essay
+1557,LXII,22,essay+political discourses
+1558,LXII,16,essay
+1559,LXII,14,essay+political discourses
+1560,LXII,4,essay
+1561,LXII,82,political discourses
+1562,LXII,83,political discourses
+1563,LXII,84,political discourses
+1564,LXII,85,political discourses
+1565,LXII,86,political discourses
+1566,LXII,87,political discourses
+1567,LXII,88,political discourses
+1568,LXII,89,political discourses
+1569,LXII,90,political discourses
+1570,LXII,13,political discourses
+1571,LXII,43,political discourses
+1572,LXII,44,political discourses
+1573,LXII,45,political discourses
+1574,LXII,48,political discourses
+1575,LXII,49,political discourses
+1576,LXII,66,political discourses
+1577,LXII,21,political discourses
+1578,LXII,2,political discourses
+1579,LXII,3,political discourses
+1580,LXII,80,political discourses
+1581,LXII,36,political discourses
+1582,LXII,32,political discourses
+1583,LXXI,100,dissertation+enquiry+essay
+1584,LXXI,101,dissertation+essay
+1585,LXXI,96,enquiry+essay
+1586,LXXI,97,enquiry+essay
+1587,LXXI,90,enquiry+essay
+1588,LXXI,95,essay
+1589,LXXI,98,essay
+1590,LXXI,99,essay
+1591,LXXI,102,essay
+1592,LXXI,103,essay
+1593,LXXI,104,essay
+1594,LXXI,64,essay+political discourses
+1595,LXXI,65,essay
+1596,LXXI,66,essay
+1597,LXXI,89,essay
+1598,LXXI,91,essay
+1599,LXXI,48,essay
+1600,LXXI,49,essay
+1601,LXXI,50,essay
+1602,LXXI,70,essay
+1603,LXXI,71,essay
+1604,LXXI,33,essay
+1605,LXXI,34,essay+political discourses
+1606,LXXI,16,essay
+1607,LXXI,21,essay
+1608,LXXI,25,essay
+1609,LXXI,41,essay+political discourses
+1610,LXXI,44,essay+political discourses
+1611,LXXI,68,essay+political discourses
+1612,LXXI,46,essay
+1613,LXXI,57,essay+political discourses
+1614,LXXI,61,essay
+1615,LXXI,0,essay+political discourses
+1616,LXXI,5,essay+political discourses
+1617,LXXI,8,essay
+1618,LXXI,81,political discourses
+1619,LXXI,82,political discourses
+1620,LXXI,83,political discourses
+1621,LXXI,84,political discourses
+1622,LXXI,85,political discourses
+1623,LXXI,4,political discourses
+1624,LXXI,6,political discourses
+1625,LXXI,75,political discourses
+1626,LXXI,76,political discourses
+1627,LXXI,87,political discourses
+1628,LXXI,88,political discourses
+1629,LXXI,63,political discourses
+1630,LXXI,92,political discourses
+1631,LXXI,93,political discourses
+1632,LXXI,78,political discourses
+1633,LXXI,72,political discourses
+1634,LXXI,60,political discourses
+1635,LXI,63,dissertation+enquiry+essay
+1636,LXI,57,dissertation
+1637,LXI,64,enquiry+essay
+1638,LXI,72,enquiry+essay
+1639,LXI,73,enquiry+essay
+1640,LXI,89,enquiry+essay
+1641,LXI,90,enquiry+essay
+1642,LXI,93,enquiry+essay
+1643,LXI,94,enquiry+essay
+1644,LXI,87,enquiry+essay
+1645,LXI,47,enquiry+essay
+1646,LXI,88,essay
+1647,LXI,91,essay
+1648,LXI,92,essay
+1649,LXI,4,essay+political discourses
+1650,LXI,5,essay
+1651,LXI,6,essay+political discourses
+1652,LXI,7,essay+political discourses
+1653,LXI,8,essay
+1654,LXI,9,essay+political discourses
+1655,LXI,10,essay
+1656,LXI,58,essay
+1657,LXI,59,essay
+1658,LXI,60,essay
+1659,LXI,61,essay+political discourses
+1660,LXI,62,essay
+1661,LXI,50,essay
+1662,LXI,51,essay
+1663,LXI,52,essay
+1664,LXI,53,essay+political discourses
+1665,LXI,54,essay
+1666,LXI,21,essay+political discourses
+1667,LXI,22,essay+political discourses
+1668,LXI,23,essay+political discourses
+1669,LXI,24,essay+political discourses
+1670,LXI,36,essay+political discourses
+1671,LXI,37,essay
+1672,LXI,38,essay+political discourses
+1673,LXI,39,essay
+1674,LXI,68,essay
+1675,LXI,69,essay+political discourses
+1676,LXI,70,essay+political discourses
+1677,LXI,1,essay
+1678,LXI,2,essay
+1679,LXI,82,essay+political discourses
+1680,LXI,75,essay
+1681,LXI,56,essay
+1682,LXI,41,essay+political discourses
+1683,LXI,28,essay+political discourses
+1684,LXI,19,essay+political discourses
+1685,LXI,13,essay+political discourses
+1686,LXI,26,political discourses
+1687,LXI,27,political discourses
+1688,LXI,29,political discourses
+1689,LXI,30,political discourses
+1690,LXI,12,political discourses
+1691,LXI,14,political discourses
+1692,LXI,15,political discourses
+1693,LXI,44,political discourses
+1694,LXI,45,political discourses
+1695,LXI,42,political discourses
+1696,LXI,76,political discourses
+1697,LXI,77,political discourses
+1698,LXI,17,political discourses
+1699,LXI,49,political discourses
+1700,LXI,55,political discourses
+1701,LX,52,dissertation+essay
+1702,LX,40,dissertation+essay
+1703,LX,42,dissertation+essay
+1704,LX,33,dissertation+enquiry+essay
+1705,LX,34,enquiry+essay
+1706,LX,37,enquiry+essay
+1707,LX,38,enquiry+essay
+1708,LX,0,essay
+1709,LX,1,essay+political discourses
+1710,LX,2,essay
+1711,LX,3,essay
+1712,LX,4,essay+political discourses
+1713,LX,36,essay
+1714,LX,32,essay
+1715,LX,54,essay
+1716,LX,55,essay
+1717,LX,69,essay
+1718,LX,70,essay+political discourses
+1719,LX,43,essay
+1720,LX,72,essay
+1721,LX,73,essay+political discourses
+1722,LX,99,essay+political discourses
+1723,LX,102,essay+political discourses
+1724,LX,91,political discourses
+1725,LX,92,political discourses
+1726,LX,93,political discourses
+1727,LX,94,political discourses
+1728,LX,95,political discourses
+1729,LX,98,political discourses
+1730,LX,100,political discourses
+1731,LX,85,political discourses
+1732,LX,86,political discourses
+1733,LX,87,political discourses
+1734,LX,5,political discourses
+1735,LX,74,political discourses
+1736,LX,89,political discourses
+1737,LX,15,political discourses
+1738,LX,19,political discourses
+1739,LX,76,political discourses
+1740,LX,78,political discourses
+1741,LX,82,political discourses
+1742,LXIII,18,dissertation+enquiry+essay
+1743,LXIII,37,dissertation+enquiry+essay
+1744,LXIII,35,essay
+1745,LXIII,36,essay
+1746,LXIII,38,essay+political discourses
+1747,LXIII,56,essay
+1748,LXIII,57,essay
+1749,LXIII,45,essay+political discourses
+1750,LXIII,46,essay
+1751,LXIII,28,essay
+1752,LXIII,29,essay
+1753,LXIII,48,essay
+1754,LXIII,49,essay
+1755,LXIII,26,essay
+1756,LXIII,16,essay
+1757,LXIII,11,essay+political discourses
+1758,LXIII,5,essay
+1759,LXIII,43,essay+political discourses
+1760,LXIII,40,political discourses
+1761,LXIII,41,political discourses
+1762,LXIII,12,political discourses
+1763,LXIII,14,political discourses
+1764,LXIII,15,political discourses
+1765,LXIII,22,political discourses
+1766,LXIII,66,political discourses
+1767,LXIII,34,political discourses
+1768,LXVII,8,dissertation+essay
+1769,LXVII,65,dissertation+essay
+1770,LXVII,15,enquiry+essay
+1771,LXVII,12,essay+political discourses
+1772,LXVII,13,essay
+1773,LXVII,14,essay
+1774,LXVII,7,essay
+1775,LXVII,66,essay
+1776,LXVII,24,essay
+1777,LXVII,25,essay
+1778,LXVII,36,essay+political discourses
+1779,LXVII,37,essay+political discourses
+1780,LXVII,62,essay
+1781,LXVII,49,essay
+1782,LXVII,54,essay+political discourses
+1783,LXVII,45,essay
+1784,LXVII,32,essay+political discourses
+1785,LXVII,22,essay+political discourses
+1786,LXVII,19,essay+political discourses
+1787,LXVII,0,essay
+1788,LXVII,53,political discourses
+1789,LXVII,55,political discourses
+1790,LXVII,56,political discourses
+1791,LXVII,16,political discourses
+1792,LXVII,17,political discourses
+1793,LXVII,23,political discourses
+1794,LXVII,64,political discourses
+1795,LXVIII,35,dissertation+essay
+1796,LXVIII,57,enquiry+essay
+1797,LXVIII,58,enquiry+essay
+1798,LXVIII,34,enquiry+essay
+1799,LXVIII,36,enquiry+essay
+1800,LXVIII,30,enquiry+essay
+1801,LXVIII,0,essay
+1802,LXVIII,1,essay
+1803,LXVIII,2,essay
+1804,LXVIII,3,essay+political discourses
+1805,LXVIII,4,essay
+1806,LXVIII,5,essay
+1807,LXVIII,6,essay
+1808,LXVIII,31,essay
+1809,LXVIII,24,essay
+1810,LXVIII,25,essay
+1811,LXVIII,54,essay+political discourses
+1812,LXVIII,50,essay
+1813,LXVIII,45,essay+political discourses
+1814,LXVIII,12,essay
+1815,LXVIII,22,political discourses
+1816,LXVIII,23,political discourses
+1817,LXVIII,17,political discourses
+1818,LXVIII,14,political discourses
+1819,LXX,67,dissertation+essay
+1820,LXX,23,enquiry+essay
+1821,LXX,24,essay+political discourses
+1822,LXX,53,essay+political discourses
+1823,LXX,54,essay
+1824,LXX,39,essay
+1825,LXX,70,essay+political discourses
+1826,LXX,27,essay+political discourses
+1827,LXX,12,essay
+1828,LXX,47,essay
+1829,LXX,9,essay
+1830,LXX,64,essay
+1831,LXX,5,essay
+1832,LXX,33,essay+political discourses
+1833,LXX,52,political discourses
+1834,LXX,26,political discourses
+1835,LXX,35,political discourses
+1836,LXX,29,political discourses
+1837,LXX,19,political discourses
+1838,LXX,0,political discourses
+1839,LXIX,33,enquiry+essay+political discourses+treatise
+1840,LXIX,65,enquiry+essay
+1841,LXIX,35,enquiry+essay+political discourses
+1842,LXIX,38,enquiry+essay
+1843,LXIX,68,essay
+1844,LXIX,69,essay
+1845,LXIX,70,essay
+1846,LXIX,71,essay
+1847,LXIX,64,essay
+1848,LXIX,66,essay
+1849,LXIX,11,essay
+1850,LXIX,12,essay
+1851,LXIX,6,essay+political discourses
+1852,LXIX,4,essay
+1853,LXIX,18,essay+political discourses
+1854,LXIX,15,essay
+1855,LXIX,22,essay
+1856,LXIX,61,essay
+1857,LXIX,56,essay
+1858,LXIX,50,essay
+1859,LXIX,45,essay
+1860,LXIX,43,essay
+1861,LXIX,40,essay
+1862,LXIX,30,essay
+1863,LXIX,26,political discourses
+1864,LXIX,27,political discourses
+1865,LXIX,13,political discourses
+1866,LXIX,8,political discourses
+1867,LXIX,51,political discourses
+1868,LXIX,47,political discourses
+1869,LXIV,62,essay
+1870,LXIV,63,essay
+1871,LXIV,64,essay
+1872,LXIV,65,essay+political discourses
+1873,LXIV,66,essay+political discourses
+1874,LXIV,67,essay
+1875,LXIV,68,essay
+1876,LXIV,76,essay+political discourses
+1877,LXIV,77,essay+political discourses
+1878,LXIV,78,essay
+1879,LXIV,27,essay+political discourses
+1880,LXIV,28,essay+political discourses
+1881,LXIV,0,essay+political discourses
+1882,LXIV,4,essay+political discourses
+1883,LXIV,6,essay+political discourses
+1884,LXIV,86,essay+political discourses
+1885,LXIV,81,essay
+1886,LXIV,60,essay
+1887,LXIV,49,essay+political discourses
+1888,LXIV,41,essay+political discourses
+1889,LXIV,18,essay+political discourses
+1890,LXIV,15,essay+political discourses
+1891,LXIV,2,political discourses
+1892,LXIV,3,political discourses
+1893,LXIV,5,political discourses
+1894,LXIV,94,political discourses
+1895,LXIV,95,political discourses
+1896,LXIV,96,political discourses
+1897,LXIV,97,political discourses
+1898,LXIV,98,political discourses
+1899,LXIV,100,political discourses
+1900,LXIV,101,political discourses
+1901,LXIV,102,political discourses
+1902,LXIV,103,political discourses
+1903,LXIV,13,political discourses
+1904,LXIV,14,political discourses
+1905,LXIV,40,political discourses
+1906,LXIV,42,political discourses
+1907,LXIV,50,political discourses
+1908,LXIV,83,political discourses
+1909,LXIV,84,political discourses
+1910,LXIV,37,political discourses
+1911,LXIV,38,political discourses
+1912,LXIV,34,political discourses
+1913,LXIV,35,political discourses
+1914,LXIV,91,political discourses
+1915,LXIV,80,political discourses
+1916,LXIV,69,political discourses
+1917,LXIV,59,political discourses
+1918,LXIV,30,political discourses
+1919,LXIV,25,political discourses
+1920,LXIV,20,political discourses
+1921,LXIV,8,political discourses
+1922,LXV,69,essay+political discourses
+1923,LXV,70,essay
+1924,LXV,71,essay+political discourses
+1925,LXV,72,essay+political discourses
+1926,LXV,73,essay+political discourses
+1927,LXV,74,essay+political discourses
+1928,LXV,15,essay
+1929,LXV,16,essay
+1930,LXV,23,essay
+1931,LXV,24,essay
+1932,LXV,12,essay+political discourses
+1933,LXV,13,essay+political discourses
+1934,LXV,48,essay+political discourses
+1935,LXV,64,essay
+1936,LXV,60,essay
+1937,LXV,39,essay+political discourses
+1938,LXV,36,essay
+1939,LXV,33,essay
+1940,LXV,2,essay
+1941,LXV,0,essay
+1942,LXV,55,political discourses
+1943,LXV,56,political discourses
+1944,LXV,57,political discourses
+1945,LXV,58,political discourses
+1946,LXV,59,political discourses
+1947,LXV,99,political discourses
+1948,LXV,100,political discourses
+1949,LXV,101,political discourses
+1950,LXV,6,political discourses
+1951,LXV,7,political discourses
+1952,LXV,8,political discourses
+1953,LXV,61,political discourses
+1954,LXV,62,political discourses
+1955,LXV,63,political discourses
+1956,LXV,67,political discourses
+1957,LXV,68,political discourses
+1958,LXV,43,political discourses
+1959,LXV,44,political discourses
+1960,LXV,51,political discourses
+1961,LXV,52,political discourses
+1962,LXV,93,political discourses
+1963,LXV,94,political discourses
+1964,LXV,49,political discourses
+1965,LXV,30,political discourses
+1966,LXV,87,political discourses
+1967,LXV,82,political discourses
+1968,LXV,79,political discourses
+1969,LXV,77,political discourses
+1970,LXV,41,political discourses
+1971,LXVI,32,essay+political discourses
+1972,LXVI,33,essay
+1973,LXVI,0,essay
+1974,LXVI,1,essay
+1975,LXVI,3,essay+political discourses
+1976,LXVI,4,essay
+1977,LXVI,12,essay+political discourses
+1978,LXVI,13,essay+political discourses
+1979,LXVI,85,essay+political discourses
+1980,LXVI,83,essay+political discourses
+1981,LXVI,79,essay+political discourses
+1982,LXVI,77,essay
+1983,LXVI,70,essay
+1984,LXVI,66,essay+political discourses
+1985,LXVI,21,essay+political discourses
+1986,LXVI,80,political discourses
+1987,LXVI,81,political discourses
+1988,LXVI,27,political discourses
+1989,LXVI,28,political discourses
+1990,LXVI,29,political discourses
+1991,LXVI,23,political discourses
+1992,LXVI,24,political discourses
+1993,LXVI,31,political discourses
+1994,LXVI,35,political discourses
+1995,LXVI,75,political discourses
+1996,LXVI,73,political discourses
+1997,LXVI,42,political discourses
+1998,LXVI,17,political discourses
+1999,LXVI,8,political discourses
