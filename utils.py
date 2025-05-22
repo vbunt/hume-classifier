@@ -115,6 +115,7 @@ def get_scores(pred, y_test, title, matrix=True, print_=True, prec_rec=False):
 
         ax.xaxis.set_ticks([i for i in range(0, len(cl))], labels, rotation=60)
         ax.yaxis.set_ticks([i for i in range(0, len(cl))], labels)
+        plt.title(title)
     
     return acc, f1
     
