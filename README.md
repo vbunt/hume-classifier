@@ -1,3 +1,5 @@
 # hume-classifier
 
 David Hume (1711-1776) was an 18th century philosopher and historian. His rendition of English history, “The History of England, From the Invasion of Julius Caesar to the Revolution in 1688” (published in 1754-1762), combines two genres: classical narrative history and newly emerged philosophical history, that was concerned with a wider range of topics. It has long been believed that the History of England includes fragments that are stylistically and topically close to Hume’s essays. The goal of this study is to automatically find such fragments. The problem is approached as a classification task. A machine learning model, trained on a dataset of Hume’s texts with genre labels, assigns genre probabilities to each paragraph in History. The Kleinberg algorithm is used to highlight fragments where the probability of a given genre is increased. Analysis shows that the extracted fragments are topically or stylistically different from classical history.
+
+Full text: http://hdl.handle.net/10138/598293
