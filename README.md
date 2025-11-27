@@ -1,18 +1,18 @@
-# DL-forward approaches to David Hume’s History of England
-This is a short and informal description of my Master's thesis. the thesis was written at the University of Helsinki in 2024-2025 under careful supervision of Mikko Tolonen and Maciej Janicki. 
+# DL-Forward Approaches to David Hume’s _History of England_
+This is a short and informal description of my Master's thesis. The thesis was written at the University of Helsinki in 2024-2025 under careful supervision of Mikko Tolonen and Maciej Janicki. 
 Full text: http://hdl.handle.net/10138/598293
 
 ## General Premise
 
-David Hume has spent most of his years writing philosophical works, such as essays and treatises. Yet, at the end of his career he published a six-volume *History of England*. The shift from one genre to another was not clean: historians have long known Hume's *History* to contain non-narrative fragments of philosophical writing. The goal of this work is to create a model that could automatically extract such fragments. First I train a multiclass classifier model that assigns a genre label to a paragraph. Then, I process the entire text of the History and use the model's logits as probability scores of a given paragraph belonging to each of the genres. Then I extract sequences of paragraphs where the scores for a genre are increased, compared to the rest of the text. Then I evaluate these sequences qualitatively.
+David Hume has spent most of his years writing philosophical works, such as essays and treatises. Yet, at the end of his career he published a six-volume *History of England*. The shift from one genre to another was not clean: historians have long known Hume's *History* to contain non-narrative fragments of philosophical writing. The goal of this work is to create a model that could automatically extract such fragments. First I train a multiclass classifier model that assigns a genre label to a paragraph. Then, I process the entire text of _ History_ and use the model's logits as probability scores of a given paragraph belonging to each of the genres. Then I extract sequences of paragraphs where the scores for a genre are increased, compared to the rest of the text. Then I evaluate these sequences qualitatively.
 
-## What is genre?
+## Do We Know What _Genre_ Is?
 
-For the purposes of this work, *genre* is the title that Hume chose for a particular work. For example, if a text was published in the collection titled "Essays, Moral and Political", then its genre, and the label for the model, is 'essay'.
+Literary scholars do not know what exactly constitutes a genre, but for the purposes of this work, *genre* is the title that Hume chose for a particular work. For example, if a text was published in the collection titled "Essays, Moral and Political", then its genre, and the label for the model, is 'essay'.
 
-Of course, the entire text of _The History of England_ would then have to be tagged as 'history'. However, since I assume that some historical paragraphs are, actually, written in other genres and should be tagged as such, it is important to train the classifier on the paragraphs that are as representative of classical history as possible. To choose such paragraphs, I trained a Logistic regression model and chose the samples where the logit for history class was >0.95. (In the thesis, I did this after the first batch of experiments, when I realized that the models were mislabelling history.)
+Of course, the entire text of _The History of England_ would then have to be tagged as 'history'. However, since I assume that some historical paragraphs are, actually, written in other genres and should be tagged as such, it is important to train the classifier on the paragraphs that are as representative of classical history as possible. To choose such paragraphs, I trained a Logistic regression model and chose the samples where the logit for 'history' class was >0.95. (In the thesis, I did this after the first batch of experiments, when I realized that the models were mislabelling 'history' class.)
 
-## The data
+## The Data
 
 *Genre dataset* includes samples from all genres present in Hume's writing. Each sample is a paragraph. For longer works, I used only 500 samples to keep the data relatively balanced. 
 
@@ -41,7 +41,7 @@ I expected that Transformer models would outperform everything else. Training a 
 #### Features
 I used tf-idf features for Logistic regression and SVM, and native Transformer features for Transformers. 
 #### Metrics
-In multi-class problem F-score is simply accuracy (correct / samples). I used confusion matrices to analyse mistakes. 
+In multi-class problems, F-score is simply accuracy (correct / samples). I additionally used confusion matrices to analyse mistakes. 
 #### Training 
 Transformers were trained for 10 epochs, learning rate = 0.00001, weight decay = 0.01, with early stopping employed after 2 epochs with no positive change. Train/test/eval split was 80/10/10. Classic ML models used train/test.
 
@@ -61,7 +61,7 @@ Interestingly, classic ML models show results on par with Transformers, while XL
 
 I chose distilbert-base-uncased for futher experiments, because it showed the best result on classifying EH dataset. In hindsight, it is unclear which improvements are statistically significant. EH dataset includes only 66 samples, so the difference in accuracy between DistilBERT and ECCO-BERT is 4 samples. Perhaps, I should have prioritized the performance on task 1, and chosen ECCO-BERT instead. 
 
-#### Mechanism of burst extraction
+#### Mechanism of Burst Extraction
 
 The model is applied to _The History of England_, paragraph by paragraph. For each of them the model returns seven numbers: the probabilities of a paragraph belonging to each of the genres.
 
@@ -92,12 +92,13 @@ The assessment shows that only some of the extracted bursts are of philosophical
 ## What I Would Do Differently If I Ever Do a PHD About This
 1. Gain a better understanding of my data before doing the experiments: read more secondary literature, find specific observations to test, try to find essay-like parts myself.
 2. Apply statistical testing to determine if models perform significantly better or not. 
-3. Apply a better burst extraction algorithm. As I have written above, the current approach loses vital information, which could help minimize the noise in extracted bursts. 
+3. Apply a better burst extraction algorithm. As I have written above, the current approach loses vital information, which leads to noise in extracted bursts. 
 
 ## What Else I Would Do If I Ever Do a PHD About This
 1. Apply the pipeline to authors beyond Hume. I was told there are questions to be answered in the realm of Adam Smith, although I did not look into him myself. 
-2. Try clustering. Maybe some philosophical genres are very close to each other, and it does not really make sense to separate them for our purposes? 
+2. Try clustering. Maybe some philosophical genres are very close to each other, and it does not really make sense to separate them for our purposes? Maybe philosophical fragments in _History_ would cluster with other philosophical works right away? 
 3. Experiment with models that have a bigger context window and try to classify sections instead of paragraphs.
 
 ## References
-TODO
+1. Kleinberg, J. (2002). Bursty and hierarchical structure in streams. *Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining*, 91– 101.
+2. Zhang, J., Ryan, Y. C., Rastas, I., Ginter, F., Tolonen, M., & Babbar, R. (2022). Detecting sequential genre change in eighteenth-century texts. *CEUR Workshop Proceedings*, 3290, 243–255.
