@@ -1,10 +1,10 @@
 # DL-forward approaches to David Hume’s History of England
-This is my Master's thesis. It was written at the University of Helsinki in 2024-2025 under careful supervision of Mikko Tolonen and Maciej Janicki. 
+This is a short and informal description of my Master's thesis. the thesis was written at the University of Helsinki in 2024-2025 under careful supervision of Mikko Tolonen and Maciej Janicki. 
 Full text: http://hdl.handle.net/10138/598293
 
 ## General Premise
 
-David Hume has spent most of his years writing philosophical works, such as essays and treatises. Yet, at the end of his career he published a six-tome *History of England*. The shift from one genre to another was not clean: historians have long known Hume's *History* to contain non-narrative fragments of philosophical writing. The goal of this work is to create a model that could automatically extract such fragments. First I train a multiclass classifier model that assigns a genre label to a paragraph. Then, I process the entire text of the History and use the model's logits as probability scores of a given paragraph belonging to each of the genres. Then I extract sequences of paragraphs where the scores for a genre are increased, compared to the rest of the text. Then I evaluate these sequences qualitatively.
+David Hume has spent most of his years writing philosophical works, such as essays and treatises. Yet, at the end of his career he published a six-volume *History of England*. The shift from one genre to another was not clean: historians have long known Hume's *History* to contain non-narrative fragments of philosophical writing. The goal of this work is to create a model that could automatically extract such fragments. First I train a multiclass classifier model that assigns a genre label to a paragraph. Then, I process the entire text of the History and use the model's logits as probability scores of a given paragraph belonging to each of the genres. Then I extract sequences of paragraphs where the scores for a genre are increased, compared to the rest of the text. Then I evaluate these sequences qualitatively.
 
 ## What is genre?
 
@@ -76,3 +76,28 @@ paragraphs, which is the length of the book. The list of all events is a list of
 Unfortunately, this approach overlooks how much higher the value is, compared to the threshold. The probabilities get flattened, which leads to less precise extractions. There is
 room for improvement in my application of the method.
 
+## Assessment
+
+After burst extraction, a volume looks like this: <img width="1511" height="511" alt="6 volume_2" src="https://github.com/user-attachments/assets/5abe6fa8-4c50-49cf-998a-d766f979a6f6" />
+The x-axis shows paragraphs and chapter boundaries; the y-axis shows probabilities. Each dot in the scatterplot represents a probability of a paragraph belonging to a specific genre. The bars are bursts found by the Kleinberg algorithm. The colors of dots and bars represent genres.
+
+In general, the findings correspond to the philologists' expectations about the text.
+1. The volumes that were written first are more philosophical than the later ones, as shown here: <img width="393" height="308" alt="6_burst_percentage" src="https://github.com/user-attachments/assets/4ebb48db-747a-4a7f-9562-32577b6be901" />
+2. The most common non-historical genres are 'essay' and 'political discourse' (meaning political and economical essays)
+3. Long extracted bursts make sense. For example, in Volume 2 (above), every chapter ends on a 'political discourse' burst, which correspond to sections where Hume discusses the economy of a period. 
+4. Short extracted bursts are often paragraphs that are neither clearly historical or clearly philosophical, but a secret third thing, such as non-narrative descriptions.
+
+The assessment shows that only some of the extracted bursts are of philosophical genres. More often than not, they show parts of *History* that diverge from the classical style, but do not necessarily step into the realm of philosophical writing. The model is thus a compass, not a map; it only points into a possible direction, and it is the researcher’s job to investigate it.
+
+## What I Would Do Differently If I Ever Do a PHD About This
+1. Gain a better understanding of my data before doing the experiments: read more secondary literature, find specific observations to test, try to find essay-like parts myself.
+2. Apply statistical testing to determine if models perform significantly better or not. 
+3. Apply a better burst extraction algorithm. As I have written above, the current approach loses vital information, which could help minimize the noise in extracted bursts. 
+
+## What Else I Would Do If I Ever Do a PHD About This
+1. Apply the pipeline to authors beyond Hume. I was told there are questions to be answered in the realm of Adam Smith, although I did not look into him myself. 
+2. Try clustering. Maybe some philosophical genres are very close to each other, and it does not really make sense to separate them for our purposes? 
+3. Experiment with models that have a bigger context window and try to classify sections instead of paragraphs.
+
+## References
+TODO
